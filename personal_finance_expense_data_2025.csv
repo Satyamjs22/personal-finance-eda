@@ -1,0 +1,1121 @@
+Date,Category,Subcategory,Payment_Mode,Amount,Description,Month,Year
+1/1/2025,Travel,Cab,Cash,23.07,Cab expense via Cash,January,2025
+1/1/2025,Utilities,Electric Bill,UPI,33.34,Electric Bill expense via UPI,January,2025
+1/1/2025,Health,Medicine,Debit Card,8.12,Medicine expense via Debit Card,January,2025
+1/1/2025,Utilities,Gas,Debit Card,24.74,Gas expense via Debit Card,January,2025
+1/1/2025,Shopping,Clothes,Cash,31.44,Clothes expense via Cash,January,2025
+1/2/2025,Travel,Train,Debit Card,17.2,Train expense via Debit Card,January,2025
+1/2/2025,Travel,Cab,Cash,22.28,Cab expense via Cash,January,2025
+1/2/2025,Rent,House Rent,Cash,306.51,House Rent expense via Cash,January,2025
+1/2/2025,Others,Gifts,Debit Card,14.71,Gifts expense via Debit Card,January,2025
+1/3/2025,Utilities,Internet,Debit Card,25.14,Internet expense via Debit Card,January,2025
+1/3/2025,Rent,House Rent,UPI,379.62,House Rent expense via UPI,January,2025
+1/3/2025,Food,Snacks,Cash,28.1,Snacks expense via Cash,January,2025
+1/3/2025,Shopping,Electronics,Cash,13.26,Electronics expense via Cash,January,2025
+1/3/2025,Others,Gifts,UPI,8.82,Gifts expense via UPI,January,2025
+1/4/2025,Rent,House Rent,Debit Card,335.77,House Rent expense via Debit Card,January,2025
+1/4/2025,Health,Doctor Visit,Cash,39.34,Doctor Visit expense via Cash,January,2025
+1/4/2025,Others,Gifts,UPI,9.05,Gifts expense via UPI,January,2025
+1/4/2025,Rent,House Rent,Debit Card,217.17,House Rent expense via Debit Card,January,2025
+1/5/2025,Others,Gifts,UPI,26.04,Gifts expense via UPI,January,2025
+1/5/2025,Food,Groceries,Cash,2.34,Groceries expense via Cash,January,2025
+1/5/2025,Rent,House Rent,Cash,355,House Rent expense via Cash,January,2025
+1/5/2025,Others,Miscellaneous,Debit Card,3.77,Miscellaneous expense via Debit Card,January,2025
+1/6/2025,Shopping,Accessories,Cash,5.99,Accessories expense via Cash,January,2025
+1/6/2025,Rent,House Rent,Debit Card,230.91,House Rent expense via Debit Card,January,2025
+1/6/2025,Shopping,Clothes,UPI,4.67,Clothes expense via UPI,January,2025
+1/7/2025,Shopping,Clothes,Debit Card,15.07,Clothes expense via Debit Card,January,2025
+1/7/2025,Health,Doctor Visit,Cash,24.34,Doctor Visit expense via Cash,January,2025
+1/7/2025,Others,Gifts,Debit Card,22.51,Gifts expense via Debit Card,January,2025
+1/8/2025,Shopping,Clothes,Debit Card,34.28,Clothes expense via Debit Card,January,2025
+1/8/2025,Shopping,Electronics,Cash,36.38,Electronics expense via Cash,January,2025
+1/8/2025,Utilities,Internet,UPI,27.45,Internet expense via UPI,January,2025
+1/8/2025,Others,Miscellaneous,Cash,11.71,Miscellaneous expense via Cash,January,2025
+1/8/2025,Shopping,Electronics,UPI,31.99,Electronics expense via UPI,January,2025
+1/9/2025,Others,Miscellaneous,UPI,10.93,Miscellaneous expense via UPI,January,2025
+1/9/2025,Health,Doctor Visit,Debit Card,36.77,Doctor Visit expense via Debit Card,January,2025
+1/9/2025,Rent,House Rent,Cash,356.6,House Rent expense via Cash,January,2025
+1/9/2025,Rent,House Rent,Cash,382.27,House Rent expense via Cash,January,2025
+1/9/2025,Travel,Fuel,Debit Card,33.63,Fuel expense via Debit Card,January,2025
+1/10/2025,Utilities,Electric Bill,Cash,29.07,Electric Bill expense via Cash,January,2025
+1/10/2025,Health,Medicine,Debit Card,27.21,Medicine expense via Debit Card,January,2025
+1/10/2025,Utilities,Gas,Debit Card,13.5,Gas expense via Debit Card,January,2025
+1/10/2025,Travel,Cab,Cash,16.08,Cab expense via Cash,January,2025
+1/11/2025,Others,Miscellaneous,Debit Card,11.03,Miscellaneous expense via Debit Card,January,2025
+1/11/2025,Others,Gifts,Debit Card,8.71,Gifts expense via Debit Card,January,2025
+1/11/2025,Others,Gifts,UPI,25.91,Gifts expense via UPI,January,2025
+1/12/2025,Food,Snacks,UPI,33.04,Snacks expense via UPI,January,2025
+1/12/2025,Travel,Cab,Debit Card,28.47,Cab expense via Debit Card,January,2025
+1/12/2025,Shopping,Accessories,UPI,16.16,Accessories expense via UPI,January,2025
+1/13/2025,Health,Medicine,UPI,39.11,Medicine expense via UPI,January,2025
+1/13/2025,Shopping,Electronics,Cash,22.81,Electronics expense via Cash,January,2025
+1/13/2025,Rent,House Rent,Cash,312.02,House Rent expense via Cash,January,2025
+1/13/2025,Health,Medicine,UPI,39.22,Medicine expense via UPI,January,2025
+1/14/2025,Health,Doctor Visit,UPI,13.5,Doctor Visit expense via UPI,January,2025
+1/14/2025,Food,Restaurant,UPI,18.04,Restaurant expense via UPI,January,2025
+1/14/2025,Food,Snacks,UPI,21.75,Snacks expense via UPI,January,2025
+1/14/2025,Food,Restaurant,Debit Card,29.51,Restaurant expense via Debit Card,January,2025
+1/15/2025,Utilities,Water Bill,Debit Card,31.15,Water Bill expense via Debit Card,January,2025
+1/15/2025,Rent,House Rent,Debit Card,462.33,House Rent expense via Debit Card,January,2025
+1/16/2025,Others,Miscellaneous,Cash,11.63,Miscellaneous expense via Cash,January,2025
+1/16/2025,Rent,House Rent,UPI,397.68,House Rent expense via UPI,January,2025
+1/16/2025,Rent,House Rent,Cash,503.83,House Rent expense via Cash,January,2025
+1/17/2025,Rent,House Rent,UPI,488.53,House Rent expense via UPI,January,2025
+1/17/2025,Travel,Cab,Debit Card,5.02,Cab expense via Debit Card,January,2025
+1/17/2025,Health,Medicine,UPI,25.06,Medicine expense via UPI,January,2025
+1/17/2025,Rent,House Rent,Cash,419.09,House Rent expense via Cash,January,2025
+1/17/2025,Health,Medicine,Debit Card,24.54,Medicine expense via Debit Card,January,2025
+1/18/2025,Utilities,Water Bill,Debit Card,7.95,Water Bill expense via Debit Card,January,2025
+1/18/2025,Food,Snacks,Cash,12.82,Snacks expense via Cash,January,2025
+1/18/2025,Shopping,Electronics,UPI,2.34,Electronics expense via UPI,January,2025
+1/19/2025,Travel,Train,Debit Card,27.42,Train expense via Debit Card,January,2025
+1/19/2025,Rent,House Rent,Cash,377.91,House Rent expense via Cash,January,2025
+1/19/2025,Health,Doctor Visit,UPI,20.82,Doctor Visit expense via UPI,January,2025
+1/20/2025,Others,Miscellaneous,Cash,11.25,Miscellaneous expense via Cash,January,2025
+1/20/2025,Health,Doctor Visit,Debit Card,18.8,Doctor Visit expense via Debit Card,January,2025
+1/20/2025,Health,Doctor Visit,Debit Card,36.25,Doctor Visit expense via Debit Card,January,2025
+1/20/2025,Health,Doctor Visit,Debit Card,21.19,Doctor Visit expense via Debit Card,January,2025
+1/21/2025,Health,Doctor Visit,UPI,21.19,Doctor Visit expense via UPI,January,2025
+1/21/2025,Others,Gifts,Debit Card,13.5,Gifts expense via Debit Card,January,2025
+1/21/2025,Rent,House Rent,UPI,363.76,House Rent expense via UPI,January,2025
+1/21/2025,Others,Gifts,Debit Card,4.89,Gifts expense via Debit Card,January,2025
+1/21/2025,Health,Doctor Visit,Cash,6.98,Doctor Visit expense via Cash,January,2025
+1/22/2025,Rent,House Rent,Cash,409.99,House Rent expense via Cash,January,2025
+1/22/2025,Health,Doctor Visit,Cash,11.27,Doctor Visit expense via Cash,January,2025
+1/22/2025,Others,Miscellaneous,Debit Card,8.85,Miscellaneous expense via Debit Card,January,2025
+1/22/2025,Food,Restaurant,Cash,24.8,Restaurant expense via Cash,January,2025
+1/22/2025,Utilities,Gas,Cash,3.73,Gas expense via Cash,January,2025
+1/23/2025,Food,Restaurant,Debit Card,2.76,Restaurant expense via Debit Card,January,2025
+1/23/2025,Health,Medicine,Cash,16.96,Medicine expense via Cash,January,2025
+1/23/2025,Travel,Fuel,Debit Card,2.34,Fuel expense via Debit Card,January,2025
+1/24/2025,Health,Doctor Visit,UPI,23.32,Doctor Visit expense via UPI,January,2025
+1/24/2025,Others,Miscellaneous,UPI,10.21,Miscellaneous expense via UPI,January,2025
+1/24/2025,Rent,House Rent,UPI,325.63,House Rent expense via UPI,January,2025
+1/24/2025,Food,Restaurant,Cash,26.61,Restaurant expense via Cash,January,2025
+1/25/2025,Health,Doctor Visit,Cash,35.04,Doctor Visit expense via Cash,January,2025
+1/25/2025,Rent,House Rent,UPI,305.82,House Rent expense via UPI,January,2025
+1/25/2025,Others,Gifts,Debit Card,6.83,Gifts expense via Debit Card,January,2025
+1/25/2025,Food,Snacks,UPI,31.31,Snacks expense via UPI,January,2025
+1/26/2025,Health,Doctor Visit,Cash,34.72,Doctor Visit expense via Cash,January,2025
+1/26/2025,Food,Snacks,Cash,22.56,Snacks expense via Cash,January,2025
+1/26/2025,Rent,House Rent,UPI,379.38,House Rent expense via UPI,January,2025
+1/26/2025,Others,Gifts,Cash,20.48,Gifts expense via Cash,January,2025
+1/26/2025,Travel,Cab,UPI,22.94,Cab expense via UPI,January,2025
+1/27/2025,Others,Gifts,Debit Card,4.95,Gifts expense via Debit Card,January,2025
+1/27/2025,Health,Medicine,UPI,31.57,Medicine expense via UPI,January,2025
+1/27/2025,Travel,Train,Debit Card,24.49,Train expense via Debit Card,January,2025
+1/27/2025,Rent,House Rent,UPI,357.84,House Rent expense via UPI,January,2025
+1/28/2025,Utilities,Water Bill,UPI,16.59,Water Bill expense via UPI,January,2025
+1/28/2025,Health,Medicine,Debit Card,25.36,Medicine expense via Debit Card,January,2025
+1/29/2025,Others,Miscellaneous,UPI,14.15,Miscellaneous expense via UPI,January,2025
+1/29/2025,Health,Doctor Visit,Cash,18.74,Doctor Visit expense via Cash,January,2025
+1/29/2025,Food,Groceries,UPI,18.55,Groceries expense via UPI,January,2025
+1/30/2025,Travel,Train,Debit Card,3.57,Train expense via Debit Card,January,2025
+1/30/2025,Travel,Fuel,Debit Card,17.19,Fuel expense via Debit Card,January,2025
+1/31/2025,Rent,House Rent,UPI,477.93,House Rent expense via UPI,January,2025
+1/31/2025,Travel,Cab,Cash,5.54,Cab expense via Cash,January,2025
+1/31/2025,Travel,Fuel,Cash,5.52,Fuel expense via Cash,January,2025
+1/31/2025,Utilities,Water Bill,UPI,20.78,Water Bill expense via UPI,January,2025
+1/31/2025,Travel,Bus,Cash,20.27,Bus expense via Cash,January,2025
+2/1/2025,Rent,House Rent,Debit Card,564.46,House Rent expense via Debit Card,February,2025
+2/1/2025,Others,Miscellaneous,UPI,4.85,Miscellaneous expense via UPI,February,2025
+2/2/2025,Travel,Train,UPI,16.01,Train expense via UPI,February,2025
+2/2/2025,Health,Medicine,Debit Card,25.96,Medicine expense via Debit Card,February,2025
+2/2/2025,Rent,House Rent,Cash,644.44,House Rent expense via Cash,February,2025
+2/2/2025,Utilities,Electric Bill,Debit Card,54.88,Electric Bill expense via Debit Card,February,2025
+2/3/2025,Others,Miscellaneous,UPI,11.84,Miscellaneous expense via UPI,February,2025
+2/3/2025,Shopping,Electronics,Debit Card,40.96,Electronics expense via Debit Card,February,2025
+2/3/2025,Rent,House Rent,Debit Card,586.7,House Rent expense via Debit Card,February,2025
+2/3/2025,Others,Miscellaneous,Debit Card,30.58,Miscellaneous expense via Debit Card,February,2025
+2/4/2025,Food,Groceries,Debit Card,17.38,Groceries expense via Debit Card,February,2025
+2/4/2025,Rent,House Rent,Debit Card,651.04,House Rent expense via Debit Card,February,2025
+2/4/2025,Rent,House Rent,UPI,884.93,House Rent expense via UPI,February,2025
+2/4/2025,Utilities,Gas,Debit Card,22.35,Gas expense via Debit Card,February,2025
+2/4/2025,Food,Groceries,UPI,66.03,Groceries expense via UPI,February,2025
+2/5/2025,Health,Doctor Visit,Debit Card,23.78,Doctor Visit expense via Debit Card,February,2025
+2/5/2025,Shopping,Accessories,Cash,28.42,Accessories expense via Cash,February,2025
+2/5/2025,Health,Doctor Visit,Cash,53.82,Doctor Visit expense via Cash,February,2025
+2/5/2025,Travel,Train,Cash,34.08,Train expense via Cash,February,2025
+2/5/2025,Health,Doctor Visit,Cash,30.81,Doctor Visit expense via Cash,February,2025
+2/6/2025,Travel,Bus,Cash,47.11,Bus expense via Cash,February,2025
+2/6/2025,Shopping,Clothes,Cash,4.45,Clothes expense via Cash,February,2025
+2/6/2025,Others,Miscellaneous,Cash,22.41,Miscellaneous expense via Cash,February,2025
+2/7/2025,Travel,Cab,Cash,29.35,Cab expense via Cash,February,2025
+2/7/2025,Utilities,Gas,Cash,52.83,Gas expense via Cash,February,2025
+2/7/2025,Food,Restaurant,Cash,67.89,Restaurant expense via Cash,February,2025
+2/7/2025,Others,Miscellaneous,Debit Card,21.68,Miscellaneous expense via Debit Card,February,2025
+2/8/2025,Others,Miscellaneous,UPI,5.56,Miscellaneous expense via UPI,February,2025
+2/8/2025,Health,Doctor Visit,UPI,37.05,Doctor Visit expense via UPI,February,2025
+2/8/2025,Food,Restaurant,Cash,40.53,Restaurant expense via Cash,February,2025
+2/9/2025,Travel,Bus,Debit Card,4.45,Bus expense via Debit Card,February,2025
+2/9/2025,Shopping,Accessories,Debit Card,72.29,Accessories expense via Debit Card,February,2025
+2/10/2025,Food,Restaurant,Debit Card,52.59,Restaurant expense via Debit Card,February,2025
+2/10/2025,Health,Doctor Visit,UPI,42.51,Doctor Visit expense via UPI,February,2025
+2/10/2025,Food,Snacks,Cash,65.13,Snacks expense via Cash,February,2025
+2/11/2025,Health,Medicine,Cash,32.49,Medicine expense via Cash,February,2025
+2/11/2025,Health,Medicine,Debit Card,30.07,Medicine expense via Debit Card,February,2025
+2/11/2025,Health,Medicine,UPI,83.39,Medicine expense via UPI,February,2025
+2/11/2025,Rent,House Rent,Cash,770.63,House Rent expense via Cash,February,2025
+2/12/2025,Food,Groceries,Debit Card,30.53,Groceries expense via Debit Card,February,2025
+2/12/2025,Shopping,Electronics,UPI,56.34,Electronics expense via UPI,February,2025
+2/13/2025,Travel,Cab,Debit Card,25.82,Cab expense via Debit Card,February,2025
+2/13/2025,Health,Medicine,Debit Card,57.28,Medicine expense via Debit Card,February,2025
+2/13/2025,Food,Groceries,Cash,46.34,Groceries expense via Cash,February,2025
+2/14/2025,Travel,Bus,Debit Card,12.82,Bus expense via Debit Card,February,2025
+2/14/2025,Health,Doctor Visit,UPI,32.27,Doctor Visit expense via UPI,February,2025
+2/14/2025,Food,Restaurant,UPI,52.23,Restaurant expense via UPI,February,2025
+2/14/2025,Health,Doctor Visit,Cash,46.27,Doctor Visit expense via Cash,February,2025
+2/14/2025,Rent,House Rent,UPI,637.12,House Rent expense via UPI,February,2025
+2/15/2025,Shopping,Clothes,UPI,36.25,Clothes expense via UPI,February,2025
+2/15/2025,Food,Groceries,UPI,25.29,Groceries expense via UPI,February,2025
+2/16/2025,Shopping,Accessories,Debit Card,58.07,Accessories expense via Debit Card,February,2025
+2/16/2025,Health,Doctor Visit,Cash,55.66,Doctor Visit expense via Cash,February,2025
+2/16/2025,Food,Snacks,Debit Card,74.21,Snacks expense via Debit Card,February,2025
+2/16/2025,Utilities,Water Bill,UPI,62.49,Water Bill expense via UPI,February,2025
+2/17/2025,Rent,House Rent,Debit Card,635.48,House Rent expense via Debit Card,February,2025
+2/17/2025,Food,Groceries,UPI,64.37,Groceries expense via UPI,February,2025
+2/17/2025,Others,Gifts,Debit Card,27.04,Gifts expense via Debit Card,February,2025
+2/18/2025,Travel,Fuel,Cash,36.01,Fuel expense via Cash,February,2025
+2/18/2025,Travel,Train,Cash,24.55,Train expense via Cash,February,2025
+2/19/2025,Travel,Train,Debit Card,16.39,Train expense via Debit Card,February,2025
+2/19/2025,Rent,House Rent,Cash,567.68,House Rent expense via Cash,February,2025
+2/20/2025,Others,Gifts,Debit Card,4.45,Gifts expense via Debit Card,February,2025
+2/20/2025,Health,Medicine,UPI,35.19,Medicine expense via UPI,February,2025
+2/20/2025,Others,Gifts,UPI,28.36,Gifts expense via UPI,February,2025
+2/20/2025,Others,Miscellaneous,UPI,13.12,Miscellaneous expense via UPI,February,2025
+2/20/2025,Others,Gifts,Cash,38.9,Gifts expense via Cash,February,2025
+2/21/2025,Others,Gifts,UPI,28.49,Gifts expense via UPI,February,2025
+2/21/2025,Others,Gifts,Cash,14.76,Gifts expense via Cash,February,2025
+2/22/2025,Rent,House Rent,Cash,494.64,House Rent expense via Cash,February,2025
+2/22/2025,Health,Doctor Visit,Cash,7.71,Doctor Visit expense via Cash,February,2025
+2/22/2025,Travel,Bus,Cash,67.12,Bus expense via Cash,February,2025
+2/23/2025,Others,Miscellaneous,UPI,35.92,Miscellaneous expense via UPI,February,2025
+2/23/2025,Shopping,Clothes,UPI,30.51,Clothes expense via UPI,February,2025
+2/24/2025,Others,Gifts,Cash,38.41,Gifts expense via Cash,February,2025
+2/24/2025,Shopping,Accessories,UPI,66.55,Accessories expense via UPI,February,2025
+2/25/2025,Others,Gifts,UPI,5.42,Gifts expense via UPI,February,2025
+2/25/2025,Utilities,Internet,Debit Card,78.89,Internet expense via Debit Card,February,2025
+2/25/2025,Others,Miscellaneous,UPI,22.39,Miscellaneous expense via UPI,February,2025
+2/26/2025,Others,Miscellaneous,Cash,37.79,Miscellaneous expense via Cash,February,2025
+2/26/2025,Travel,Train,Debit Card,33.89,Train expense via Debit Card,February,2025
+2/26/2025,Food,Groceries,UPI,26.09,Groceries expense via UPI,February,2025
+2/26/2025,Rent,House Rent,Cash,684.92,House Rent expense via Cash,February,2025
+2/27/2025,Utilities,Gas,UPI,55.09,Gas expense via UPI,February,2025
+2/27/2025,Utilities,Electric Bill,Debit Card,64.22,Electric Bill expense via Debit Card,February,2025
+2/28/2025,Travel,Cab,Cash,39.14,Cab expense via Cash,February,2025
+2/28/2025,Food,Restaurant,UPI,38.84,Restaurant expense via UPI,February,2025
+2/28/2025,Others,Miscellaneous,Debit Card,21.31,Miscellaneous expense via Debit Card,February,2025
+2/28/2025,Travel,Train,Debit Card,31.61,Train expense via Debit Card,February,2025
+3/1/2025,Rent,House Rent,UPI,493.69,House Rent expense via UPI,March,2025
+3/1/2025,Rent,House Rent,Cash,483.97,House Rent expense via Cash,March,2025
+3/1/2025,Rent,House Rent,UPI,509.33,House Rent expense via UPI,March,2025
+3/1/2025,Shopping,Electronics,UPI,24.45,Electronics expense via UPI,March,2025
+3/2/2025,Health,Medicine,Debit Card,21.34,Medicine expense via Debit Card,March,2025
+3/2/2025,Travel,Fuel,Debit Card,19.88,Fuel expense via Debit Card,March,2025
+3/2/2025,Food,Groceries,UPI,54.79,Groceries expense via UPI,March,2025
+3/2/2025,Travel,Train,Cash,5.98,Train expense via Cash,March,2025
+3/2/2025,Health,Doctor Visit,Debit Card,32.47,Doctor Visit expense via Debit Card,March,2025
+3/3/2025,Shopping,Electronics,Cash,14.97,Electronics expense via Cash,March,2025
+3/3/2025,Rent,House Rent,UPI,766.81,House Rent expense via UPI,March,2025
+3/3/2025,Travel,Fuel,Debit Card,15.76,Fuel expense via Debit Card,March,2025
+3/4/2025,Travel,Train,Debit Card,33.43,Train expense via Debit Card,March,2025
+3/4/2025,Health,Medicine,UPI,14.69,Medicine expense via UPI,March,2025
+3/4/2025,Travel,Fuel,UPI,7.28,Fuel expense via UPI,March,2025
+3/4/2025,Shopping,Clothes,Debit Card,18.15,Clothes expense via Debit Card,March,2025
+3/4/2025,Travel,Bus,Cash,31.14,Bus expense via Cash,March,2025
+3/5/2025,Utilities,Water Bill,Debit Card,11.82,Water Bill expense via Debit Card,March,2025
+3/5/2025,Health,Medicine,Debit Card,62.92,Medicine expense via Debit Card,March,2025
+3/5/2025,Rent,House Rent,Debit Card,370.04,House Rent expense via Debit Card,March,2025
+3/5/2025,Shopping,Clothes,Debit Card,39.88,Clothes expense via Debit Card,March,2025
+3/5/2025,Travel,Bus,UPI,29.73,Bus expense via UPI,March,2025
+3/6/2025,Shopping,Clothes,UPI,44.23,Clothes expense via UPI,March,2025
+3/6/2025,Rent,House Rent,Debit Card,564.7,House Rent expense via Debit Card,March,2025
+3/6/2025,Shopping,Accessories,Cash,31.28,Accessories expense via Cash,March,2025
+3/6/2025,Food,Groceries,Debit Card,14.38,Groceries expense via Debit Card,March,2025
+3/6/2025,Others,Miscellaneous,Cash,15.34,Miscellaneous expense via Cash,March,2025
+3/7/2025,Health,Medicine,Debit Card,27.68,Medicine expense via Debit Card,March,2025
+3/7/2025,Rent,House Rent,Cash,330.89,House Rent expense via Cash,March,2025
+3/7/2025,Health,Medicine,Cash,27.36,Medicine expense via Cash,March,2025
+3/7/2025,Health,Medicine,Cash,3.34,Medicine expense via Cash,March,2025
+3/7/2025,Utilities,Water Bill,Cash,8.63,Water Bill expense via Cash,March,2025
+3/8/2025,Shopping,Electronics,Cash,3.34,Electronics expense via Cash,March,2025
+3/8/2025,Others,Miscellaneous,Cash,29.74,Miscellaneous expense via Cash,March,2025
+3/8/2025,Utilities,Water Bill,UPI,50.76,Water Bill expense via UPI,March,2025
+3/8/2025,Others,Miscellaneous,Debit Card,9.85,Miscellaneous expense via Debit Card,March,2025
+3/9/2025,Shopping,Electronics,UPI,19.84,Electronics expense via UPI,March,2025
+3/9/2025,Food,Groceries,Debit Card,36.91,Groceries expense via Debit Card,March,2025
+3/10/2025,Travel,Fuel,UPI,47.06,Fuel expense via UPI,March,2025
+3/10/2025,Food,Restaurant,Cash,17.15,Restaurant expense via Cash,March,2025
+3/10/2025,Rent,House Rent,UPI,514.53,House Rent expense via UPI,March,2025
+3/10/2025,Rent,House Rent,UPI,441.12,House Rent expense via UPI,March,2025
+3/11/2025,Health,Medicine,Cash,41.3,Medicine expense via Cash,March,2025
+3/11/2025,Food,Snacks,Cash,50.08,Snacks expense via Cash,March,2025
+3/12/2025,Travel,Fuel,Debit Card,34.89,Fuel expense via Debit Card,March,2025
+3/12/2025,Utilities,Internet,Debit Card,15.66,Internet expense via Debit Card,March,2025
+3/12/2025,Travel,Cab,Cash,48.65,Cab expense via Cash,March,2025
+3/13/2025,Health,Doctor Visit,UPI,6.9,Doctor Visit expense via UPI,March,2025
+3/13/2025,Utilities,Water Bill,Cash,36.89,Water Bill expense via Cash,March,2025
+3/13/2025,Food,Snacks,UPI,26.48,Snacks expense via UPI,March,2025
+3/13/2025,Food,Snacks,Cash,23.31,Snacks expense via Cash,March,2025
+3/14/2025,Food,Snacks,UPI,17.34,Snacks expense via UPI,March,2025
+3/14/2025,Travel,Cab,UPI,35.87,Cab expense via UPI,March,2025
+3/15/2025,Others,Miscellaneous,Debit Card,5.57,Miscellaneous expense via Debit Card,March,2025
+3/15/2025,Utilities,Gas,Debit Card,40.14,Gas expense via Debit Card,March,2025
+3/15/2025,Shopping,Electronics,Debit Card,20.08,Electronics expense via Debit Card,March,2025
+3/15/2025,Food,Snacks,UPI,50.69,Snacks expense via UPI,March,2025
+3/16/2025,Utilities,Gas,Debit Card,48.56,Gas expense via Debit Card,March,2025
+3/16/2025,Food,Groceries,Cash,45.41,Groceries expense via Cash,March,2025
+3/16/2025,Shopping,Electronics,Debit Card,44.07,Electronics expense via Debit Card,March,2025
+3/16/2025,Food,Groceries,Debit Card,39.44,Groceries expense via Debit Card,March,2025
+3/16/2025,Utilities,Electric Bill,UPI,46.52,Electric Bill expense via UPI,March,2025
+3/17/2025,Others,Gifts,UPI,25.13,Gifts expense via UPI,March,2025
+3/17/2025,Travel,Train,UPI,39.37,Train expense via UPI,March,2025
+3/18/2025,Food,Snacks,UPI,28.67,Snacks expense via UPI,March,2025
+3/18/2025,Travel,Train,UPI,32.62,Train expense via UPI,March,2025
+3/18/2025,Shopping,Accessories,Cash,45.14,Accessories expense via Cash,March,2025
+3/18/2025,Others,Miscellaneous,Debit Card,15.34,Miscellaneous expense via Debit Card,March,2025
+3/19/2025,Food,Snacks,UPI,23.53,Snacks expense via UPI,March,2025
+3/19/2025,Shopping,Electronics,UPI,12.66,Electronics expense via UPI,March,2025
+3/19/2025,Health,Medicine,UPI,38.27,Medicine expense via UPI,March,2025
+3/19/2025,Utilities,Gas,Debit Card,5.51,Gas expense via Debit Card,March,2025
+3/19/2025,Health,Doctor Visit,UPI,47.44,Doctor Visit expense via UPI,March,2025
+3/20/2025,Rent,House Rent,Debit Card,444.37,House Rent expense via Debit Card,March,2025
+3/20/2025,Rent,House Rent,Cash,485.8,House Rent expense via Cash,March,2025
+3/20/2025,Food,Restaurant,UPI,17.97,Restaurant expense via UPI,March,2025
+3/21/2025,Health,Doctor Visit,Cash,34.72,Doctor Visit expense via Cash,March,2025
+3/21/2025,Food,Groceries,Cash,34.35,Groceries expense via Cash,March,2025
+3/21/2025,Food,Restaurant,Cash,23.97,Restaurant expense via Cash,March,2025
+3/21/2025,Rent,House Rent,Debit Card,375.43,House Rent expense via Debit Card,March,2025
+3/22/2025,Others,Miscellaneous,UPI,16.07,Miscellaneous expense via UPI,March,2025
+3/22/2025,Health,Medicine,Debit Card,23.58,Medicine expense via Debit Card,March,2025
+3/23/2025,Shopping,Accessories,Cash,13.26,Accessories expense via Cash,March,2025
+3/23/2025,Others,Miscellaneous,Debit Card,3.34,Miscellaneous expense via Debit Card,March,2025
+3/23/2025,Utilities,Water Bill,Debit Card,42.6,Water Bill expense via Debit Card,March,2025
+3/23/2025,Travel,Fuel,Debit Card,29.43,Fuel expense via Debit Card,March,2025
+3/24/2025,Health,Medicine,UPI,39.44,Medicine expense via UPI,March,2025
+3/24/2025,Utilities,Internet,Debit Card,47.14,Internet expense via Debit Card,March,2025
+3/24/2025,Health,Doctor Visit,Cash,38.56,Doctor Visit expense via Cash,March,2025
+3/25/2025,Travel,Cab,Cash,3.34,Cab expense via Cash,March,2025
+3/25/2025,Health,Doctor Visit,UPI,10.33,Doctor Visit expense via UPI,March,2025
+3/25/2025,Others,Miscellaneous,Debit Card,10.32,Miscellaneous expense via Debit Card,March,2025
+3/25/2025,Rent,House Rent,Cash,650.55,House Rent expense via Cash,March,2025
+3/25/2025,Food,Snacks,UPI,54.76,Snacks expense via UPI,March,2025
+3/26/2025,Others,Gifts,Cash,10.44,Gifts expense via Cash,March,2025
+3/26/2025,Others,Gifts,UPI,13.15,Gifts expense via UPI,March,2025
+3/26/2025,Rent,House Rent,UPI,738.4,House Rent expense via UPI,March,2025
+3/27/2025,Health,Medicine,UPI,36.87,Medicine expense via UPI,March,2025
+3/27/2025,Travel,Train,UPI,49.81,Train expense via UPI,March,2025
+3/28/2025,Utilities,Internet,Cash,42.51,Internet expense via Cash,March,2025
+3/28/2025,Utilities,Gas,Debit Card,65.84,Gas expense via Debit Card,March,2025
+3/28/2025,Others,Gifts,Cash,26.35,Gifts expense via Cash,March,2025
+3/29/2025,Health,Doctor Visit,Debit Card,26.35,Doctor Visit expense via Debit Card,March,2025
+3/29/2025,Shopping,Electronics,UPI,35.97,Electronics expense via UPI,March,2025
+3/29/2025,Utilities,Electric Bill,Cash,39.05,Electric Bill expense via Cash,March,2025
+3/30/2025,Utilities,Internet,Cash,21.49,Internet expense via Cash,March,2025
+3/30/2025,Food,Groceries,Debit Card,27.47,Groceries expense via Debit Card,March,2025
+3/30/2025,Travel,Bus,UPI,22.03,Bus expense via UPI,March,2025
+3/30/2025,Utilities,Gas,Cash,41.27,Gas expense via Cash,March,2025
+3/31/2025,Shopping,Accessories,Debit Card,17.41,Accessories expense via Debit Card,March,2025
+3/31/2025,Shopping,Electronics,Cash,57.4,Electronics expense via Cash,March,2025
+3/31/2025,Others,Gifts,Debit Card,12.99,Gifts expense via Debit Card,March,2025
+3/31/2025,Utilities,Gas,Debit Card,23.66,Gas expense via Debit Card,March,2025
+4/1/2025,Food,Restaurant,Debit Card,28.6,Restaurant expense via Debit Card,April,2025
+4/1/2025,Utilities,Gas,Debit Card,14.29,Gas expense via Debit Card,April,2025
+4/1/2025,Utilities,Gas,Debit Card,44.49,Gas expense via Debit Card,April,2025
+4/2/2025,Travel,Bus,Debit Card,14.44,Bus expense via Debit Card,April,2025
+4/2/2025,Rent,House Rent,Cash,475.91,House Rent expense via Cash,April,2025
+4/3/2025,Utilities,Internet,Debit Card,28.16,Internet expense via Debit Card,April,2025
+4/3/2025,Health,Doctor Visit,Cash,44.09,Doctor Visit expense via Cash,April,2025
+4/3/2025,Utilities,Water Bill,Debit Card,22.78,Water Bill expense via Debit Card,April,2025
+4/4/2025,Rent,House Rent,UPI,408.34,House Rent expense via UPI,April,2025
+4/4/2025,Rent,House Rent,Debit Card,566.24,House Rent expense via Debit Card,April,2025
+4/4/2025,Rent,House Rent,Debit Card,643.91,House Rent expense via Debit Card,April,2025
+4/4/2025,Rent,House Rent,Debit Card,593.9,House Rent expense via Debit Card,April,2025
+4/4/2025,Rent,House Rent,Debit Card,615.4,House Rent expense via Debit Card,April,2025
+4/5/2025,Others,Miscellaneous,Cash,43.07,Miscellaneous expense via Cash,April,2025
+4/5/2025,Others,Miscellaneous,Cash,24.07,Miscellaneous expense via Cash,April,2025
+4/5/2025,Utilities,Electric Bill,Debit Card,11.11,Electric Bill expense via Debit Card,April,2025
+4/6/2025,Health,Doctor Visit,Cash,46.22,Doctor Visit expense via Cash,April,2025
+4/6/2025,Others,Miscellaneous,Debit Card,4.05,Miscellaneous expense via Debit Card,April,2025
+4/7/2025,Travel,Fuel,Debit Card,5.42,Fuel expense via Debit Card,April,2025
+4/7/2025,Health,Medicine,Debit Card,13.44,Medicine expense via Debit Card,April,2025
+4/7/2025,Health,Medicine,Debit Card,46.88,Medicine expense via Debit Card,April,2025
+4/8/2025,Food,Restaurant,UPI,37.54,Restaurant expense via UPI,April,2025
+4/8/2025,Rent,House Rent,UPI,529.63,House Rent expense via UPI,April,2025
+4/8/2025,Shopping,Clothes,Debit Card,26.24,Clothes expense via Debit Card,April,2025
+4/8/2025,Others,Gifts,Cash,17.7,Gifts expense via Cash,April,2025
+4/8/2025,Shopping,Clothes,UPI,35.59,Clothes expense via UPI,April,2025
+4/9/2025,Others,Miscellaneous,Cash,18.41,Miscellaneous expense via Cash,April,2025
+4/9/2025,Others,Gifts,Cash,5.3,Gifts expense via Cash,April,2025
+4/9/2025,Rent,House Rent,UPI,519.9,House Rent expense via UPI,April,2025
+4/9/2025,Health,Doctor Visit,UPI,49.71,Doctor Visit expense via UPI,April,2025
+4/10/2025,Others,Miscellaneous,UPI,27.63,Miscellaneous expense via UPI,April,2025
+4/10/2025,Health,Doctor Visit,UPI,24.63,Doctor Visit expense via UPI,April,2025
+4/10/2025,Others,Miscellaneous,UPI,18.99,Miscellaneous expense via UPI,April,2025
+4/10/2025,Shopping,Electronics,Debit Card,40.73,Electronics expense via Debit Card,April,2025
+4/10/2025,Others,Gifts,Cash,23.94,Gifts expense via Cash,April,2025
+4/11/2025,Food,Snacks,UPI,51.33,Snacks expense via UPI,April,2025
+4/11/2025,Travel,Train,UPI,26.78,Train expense via UPI,April,2025
+4/12/2025,Rent,House Rent,Debit Card,557.06,House Rent expense via Debit Card,April,2025
+4/12/2025,Shopping,Clothes,UPI,26.61,Clothes expense via UPI,April,2025
+4/12/2025,Utilities,Gas,Cash,37.94,Gas expense via Cash,April,2025
+4/13/2025,Travel,Fuel,Debit Card,31.74,Fuel expense via Debit Card,April,2025
+4/13/2025,Others,Gifts,UPI,13.39,Gifts expense via UPI,April,2025
+4/13/2025,Utilities,Internet,Debit Card,49.44,Internet expense via Debit Card,April,2025
+4/13/2025,Food,Snacks,Cash,64.82,Snacks expense via Cash,April,2025
+4/13/2025,Others,Gifts,Cash,19.06,Gifts expense via Cash,April,2025
+4/14/2025,Food,Restaurant,Debit Card,76.71,Restaurant expense via Debit Card,April,2025
+4/14/2025,Food,Restaurant,Debit Card,69.06,Restaurant expense via Debit Card,April,2025
+4/14/2025,Health,Medicine,UPI,66.64,Medicine expense via UPI,April,2025
+4/14/2025,Food,Groceries,Debit Card,60.71,Groceries expense via Debit Card,April,2025
+4/14/2025,Travel,Cab,Debit Card,32.23,Cab expense via Debit Card,April,2025
+4/15/2025,Others,Miscellaneous,Debit Card,8.14,Miscellaneous expense via Debit Card,April,2025
+4/15/2025,Others,Miscellaneous,UPI,15.86,Miscellaneous expense via UPI,April,2025
+4/15/2025,Food,Restaurant,Cash,52.03,Restaurant expense via Cash,April,2025
+4/15/2025,Rent,House Rent,Debit Card,773.04,House Rent expense via Debit Card,April,2025
+4/16/2025,Shopping,Clothes,Cash,17.16,Clothes expense via Cash,April,2025
+4/16/2025,Others,Gifts,Debit Card,19.14,Gifts expense via Debit Card,April,2025
+4/16/2025,Shopping,Clothes,UPI,57.24,Clothes expense via UPI,April,2025
+4/17/2025,Food,Snacks,Cash,27.89,Snacks expense via Cash,April,2025
+4/17/2025,Shopping,Electronics,Cash,29.68,Electronics expense via Cash,April,2025
+4/18/2025,Health,Medicine,UPI,28.73,Medicine expense via UPI,April,2025
+4/18/2025,Rent,House Rent,Cash,527.68,House Rent expense via Cash,April,2025
+4/18/2025,Shopping,Clothes,Cash,49.03,Clothes expense via Cash,April,2025
+4/19/2025,Utilities,Internet,Debit Card,55.34,Internet expense via Debit Card,April,2025
+4/19/2025,Food,Restaurant,UPI,40.73,Restaurant expense via UPI,April,2025
+4/20/2025,Shopping,Accessories,Debit Card,61.27,Accessories expense via Debit Card,April,2025
+4/20/2025,Shopping,Clothes,Cash,29.99,Clothes expense via Cash,April,2025
+4/20/2025,Others,Miscellaneous,Cash,23.43,Miscellaneous expense via Cash,April,2025
+4/21/2025,Others,Gifts,Cash,9.49,Gifts expense via Cash,April,2025
+4/21/2025,Health,Doctor Visit,Cash,40.78,Doctor Visit expense via Cash,April,2025
+4/22/2025,Travel,Train,Debit Card,8.9,Train expense via Debit Card,April,2025
+4/22/2025,Utilities,Water Bill,UPI,49.73,Water Bill expense via UPI,April,2025
+4/22/2025,Shopping,Electronics,Cash,28.19,Electronics expense via Cash,April,2025
+4/22/2025,Utilities,Gas,Cash,16.36,Gas expense via Cash,April,2025
+4/22/2025,Rent,House Rent,Debit Card,551.84,House Rent expense via Debit Card,April,2025
+4/23/2025,Shopping,Clothes,Cash,37.83,Clothes expense via Cash,April,2025
+4/23/2025,Utilities,Gas,Debit Card,54.93,Gas expense via Debit Card,April,2025
+4/23/2025,Shopping,Accessories,Debit Card,8.67,Accessories expense via Debit Card,April,2025
+4/23/2025,Food,Snacks,Debit Card,22.87,Snacks expense via Debit Card,April,2025
+4/23/2025,Food,Groceries,Cash,22.09,Groceries expense via Cash,April,2025
+4/24/2025,Health,Medicine,UPI,28.71,Medicine expense via UPI,April,2025
+4/24/2025,Others,Gifts,Debit Card,19.05,Gifts expense via Debit Card,April,2025
+4/24/2025,Health,Doctor Visit,UPI,29.55,Doctor Visit expense via UPI,April,2025
+4/25/2025,Shopping,Clothes,Cash,38.32,Clothes expense via Cash,April,2025
+4/25/2025,Food,Groceries,Debit Card,18.97,Groceries expense via Debit Card,April,2025
+4/26/2025,Others,Gifts,Debit Card,27.03,Gifts expense via Debit Card,April,2025
+4/26/2025,Rent,House Rent,Cash,437.67,House Rent expense via Cash,April,2025
+4/26/2025,Food,Snacks,Debit Card,43.99,Snacks expense via Debit Card,April,2025
+4/26/2025,Health,Medicine,Cash,27.66,Medicine expense via Cash,April,2025
+4/26/2025,Others,Gifts,Cash,4.54,Gifts expense via Cash,April,2025
+4/27/2025,Utilities,Gas,Debit Card,33.59,Gas expense via Debit Card,April,2025
+4/27/2025,Travel,Fuel,Debit Card,28.48,Fuel expense via Debit Card,April,2025
+4/27/2025,Shopping,Electronics,Debit Card,50.31,Electronics expense via Debit Card,April,2025
+4/28/2025,Shopping,Clothes,UPI,63.78,Clothes expense via UPI,April,2025
+4/28/2025,Utilities,Internet,Debit Card,47,Internet expense via Debit Card,April,2025
+4/29/2025,Utilities,Water Bill,UPI,22.8,Water Bill expense via UPI,April,2025
+4/29/2025,Health,Doctor Visit,Debit Card,67.39,Doctor Visit expense via Debit Card,April,2025
+4/30/2025,Travel,Bus,Debit Card,36.29,Bus expense via Debit Card,April,2025
+4/30/2025,Health,Doctor Visit,Cash,52.48,Doctor Visit expense via Cash,April,2025
+5/1/2025,Health,Medicine,Debit Card,22.68,Medicine expense via Debit Card,May,2025
+5/1/2025,Food,Groceries,Debit Card,15.89,Groceries expense via Debit Card,May,2025
+5/2/2025,Food,Groceries,Debit Card,55.36,Groceries expense via Debit Card,May,2025
+5/2/2025,Travel,Bus,Debit Card,39.27,Bus expense via Debit Card,May,2025
+5/2/2025,Utilities,Internet,UPI,23.4,Internet expense via UPI,May,2025
+5/2/2025,Others,Miscellaneous,Cash,16.28,Miscellaneous expense via Cash,May,2025
+5/3/2025,Food,Snacks,UPI,5.35,Snacks expense via UPI,May,2025
+5/3/2025,Utilities,Gas,Debit Card,44.39,Gas expense via Debit Card,May,2025
+5/3/2025,Food,Snacks,Cash,40.86,Snacks expense via Cash,May,2025
+5/3/2025,Travel,Train,Debit Card,17.75,Train expense via Debit Card,May,2025
+5/3/2025,Travel,Fuel,Cash,15.53,Fuel expense via Cash,May,2025
+5/4/2025,Utilities,Gas,Debit Card,52.85,Gas expense via Debit Card,May,2025
+5/4/2025,Others,Miscellaneous,Debit Card,13.25,Miscellaneous expense via Debit Card,May,2025
+5/4/2025,Health,Medicine,Cash,3.58,Medicine expense via Cash,May,2025
+5/4/2025,Health,Doctor Visit,Cash,41.25,Doctor Visit expense via Cash,May,2025
+5/5/2025,Others,Miscellaneous,Cash,8.36,Miscellaneous expense via Cash,May,2025
+5/5/2025,Rent,House Rent,Debit Card,607.73,House Rent expense via Debit Card,May,2025
+5/5/2025,Others,Miscellaneous,UPI,11.22,Miscellaneous expense via UPI,May,2025
+5/5/2025,Food,Groceries,Cash,28.13,Groceries expense via Cash,May,2025
+5/5/2025,Others,Miscellaneous,UPI,17.68,Miscellaneous expense via UPI,May,2025
+5/6/2025,Shopping,Clothes,UPI,27.7,Clothes expense via UPI,May,2025
+5/6/2025,Utilities,Electric Bill,UPI,28.43,Electric Bill expense via UPI,May,2025
+5/7/2025,Utilities,Gas,UPI,48.37,Gas expense via UPI,May,2025
+5/7/2025,Health,Medicine,Cash,36.11,Medicine expense via Cash,May,2025
+5/7/2025,Travel,Bus,UPI,59.58,Bus expense via UPI,May,2025
+5/7/2025,Others,Miscellaneous,UPI,12.69,Miscellaneous expense via UPI,May,2025
+5/7/2025,Food,Groceries,Debit Card,46.34,Groceries expense via Debit Card,May,2025
+5/8/2025,Travel,Cab,UPI,18.64,Cab expense via UPI,May,2025
+5/8/2025,Food,Snacks,Debit Card,46.44,Snacks expense via Debit Card,May,2025
+5/8/2025,Others,Gifts,UPI,23.45,Gifts expense via UPI,May,2025
+5/8/2025,Travel,Cab,Cash,48.76,Cab expense via Cash,May,2025
+5/9/2025,Travel,Fuel,UPI,13.67,Fuel expense via UPI,May,2025
+5/9/2025,Shopping,Accessories,Cash,54.64,Accessories expense via Cash,May,2025
+5/10/2025,Shopping,Electronics,Cash,11.41,Electronics expense via Cash,May,2025
+5/10/2025,Utilities,Gas,Debit Card,51.5,Gas expense via Debit Card,May,2025
+5/10/2025,Shopping,Accessories,Cash,36.9,Accessories expense via Cash,May,2025
+5/11/2025,Shopping,Electronics,UPI,39.08,Electronics expense via UPI,May,2025
+5/11/2025,Travel,Train,UPI,21.89,Train expense via UPI,May,2025
+5/11/2025,Health,Medicine,Debit Card,66.41,Medicine expense via Debit Card,May,2025
+5/11/2025,Utilities,Electric Bill,Cash,26.19,Electric Bill expense via Cash,May,2025
+5/11/2025,Health,Doctor Visit,Cash,51.2,Doctor Visit expense via Cash,May,2025
+5/12/2025,Travel,Fuel,UPI,3.58,Fuel expense via UPI,May,2025
+5/12/2025,Shopping,Accessories,Debit Card,36.29,Accessories expense via Debit Card,May,2025
+5/12/2025,Travel,Bus,UPI,39.97,Bus expense via UPI,May,2025
+5/12/2025,Rent,House Rent,UPI,655.89,House Rent expense via UPI,May,2025
+5/13/2025,Shopping,Clothes,UPI,11.08,Clothes expense via UPI,May,2025
+5/13/2025,Food,Snacks,UPI,29.59,Snacks expense via UPI,May,2025
+5/13/2025,Utilities,Electric Bill,Cash,45.78,Electric Bill expense via Cash,May,2025
+5/14/2025,Travel,Fuel,Cash,41.51,Fuel expense via Cash,May,2025
+5/14/2025,Health,Medicine,UPI,3.93,Medicine expense via UPI,May,2025
+5/14/2025,Rent,House Rent,Debit Card,629.6,House Rent expense via Debit Card,May,2025
+5/14/2025,Rent,House Rent,UPI,484.61,House Rent expense via UPI,May,2025
+5/15/2025,Utilities,Internet,Cash,30.25,Internet expense via Cash,May,2025
+5/15/2025,Travel,Fuel,Cash,34.42,Fuel expense via Cash,May,2025
+5/15/2025,Others,Gifts,Cash,27.56,Gifts expense via Cash,May,2025
+5/15/2025,Shopping,Clothes,Debit Card,57.2,Clothes expense via Debit Card,May,2025
+5/15/2025,Health,Medicine,Debit Card,38.97,Medicine expense via Debit Card,May,2025
+5/16/2025,Travel,Bus,UPI,40.92,Bus expense via UPI,May,2025
+5/16/2025,Rent,House Rent,Cash,556.59,House Rent expense via Cash,May,2025
+5/16/2025,Others,Miscellaneous,UPI,22.35,Miscellaneous expense via UPI,May,2025
+5/16/2025,Travel,Fuel,UPI,27.7,Fuel expense via UPI,May,2025
+5/16/2025,Food,Restaurant,Debit Card,40.39,Restaurant expense via Debit Card,May,2025
+5/17/2025,Travel,Train,UPI,29.3,Train expense via UPI,May,2025
+5/17/2025,Travel,Cab,Cash,29.79,Cab expense via Cash,May,2025
+5/17/2025,Rent,House Rent,Cash,453.62,House Rent expense via Cash,May,2025
+5/17/2025,Others,Gifts,Cash,22.53,Gifts expense via Cash,May,2025
+5/18/2025,Rent,House Rent,Cash,449.78,House Rent expense via Cash,May,2025
+5/18/2025,Rent,House Rent,Cash,563.53,House Rent expense via Cash,May,2025
+5/18/2025,Travel,Bus,Debit Card,44.56,Bus expense via Debit Card,May,2025
+5/18/2025,Shopping,Accessories,Debit Card,25.18,Accessories expense via Debit Card,May,2025
+5/18/2025,Food,Restaurant,Debit Card,77.12,Restaurant expense via Debit Card,May,2025
+5/19/2025,Others,Miscellaneous,Cash,33.11,Miscellaneous expense via Cash,May,2025
+5/19/2025,Rent,House Rent,Cash,506.66,House Rent expense via Cash,May,2025
+5/19/2025,Shopping,Electronics,UPI,64.31,Electronics expense via UPI,May,2025
+5/19/2025,Health,Doctor Visit,UPI,17.55,Doctor Visit expense via UPI,May,2025
+5/20/2025,Travel,Fuel,Debit Card,33.08,Fuel expense via Debit Card,May,2025
+5/20/2025,Others,Miscellaneous,Debit Card,21.7,Miscellaneous expense via Debit Card,May,2025
+5/21/2025,Rent,House Rent,Debit Card,493.71,House Rent expense via Debit Card,May,2025
+5/21/2025,Health,Medicine,Cash,34.41,Medicine expense via Cash,May,2025
+5/21/2025,Shopping,Electronics,Cash,60.08,Electronics expense via Cash,May,2025
+5/21/2025,Shopping,Accessories,UPI,16.13,Accessories expense via UPI,May,2025
+5/22/2025,Food,Groceries,Debit Card,63.43,Groceries expense via Debit Card,May,2025
+5/22/2025,Utilities,Electric Bill,Debit Card,11.14,Electric Bill expense via Debit Card,May,2025
+5/22/2025,Shopping,Electronics,Debit Card,47.5,Electronics expense via Debit Card,May,2025
+5/23/2025,Health,Medicine,Cash,36.43,Medicine expense via Cash,May,2025
+5/23/2025,Health,Medicine,UPI,3.85,Medicine expense via UPI,May,2025
+5/23/2025,Others,Gifts,Cash,3.58,Gifts expense via Cash,May,2025
+5/24/2025,Utilities,Internet,Cash,19.59,Internet expense via Cash,May,2025
+5/24/2025,Food,Snacks,Debit Card,33.71,Snacks expense via Debit Card,May,2025
+5/24/2025,Health,Doctor Visit,Debit Card,28.94,Doctor Visit expense via Debit Card,May,2025
+5/24/2025,Food,Snacks,Cash,70.66,Snacks expense via Cash,May,2025
+5/24/2025,Rent,House Rent,Debit Card,580.76,House Rent expense via Debit Card,May,2025
+5/25/2025,Others,Gifts,Cash,10.08,Gifts expense via Cash,May,2025
+5/25/2025,Travel,Bus,Debit Card,34.38,Bus expense via Debit Card,May,2025
+5/25/2025,Health,Doctor Visit,UPI,31.94,Doctor Visit expense via UPI,May,2025
+5/25/2025,Others,Miscellaneous,Cash,22.07,Miscellaneous expense via Cash,May,2025
+5/26/2025,Utilities,Internet,UPI,40.25,Internet expense via UPI,May,2025
+5/26/2025,Utilities,Water Bill,Cash,49.62,Water Bill expense via Cash,May,2025
+5/27/2025,Health,Doctor Visit,Debit Card,24.96,Doctor Visit expense via Debit Card,May,2025
+5/27/2025,Travel,Fuel,Debit Card,18.7,Fuel expense via Debit Card,May,2025
+5/28/2025,Others,Miscellaneous,Cash,13,Miscellaneous expense via Cash,May,2025
+5/28/2025,Food,Groceries,UPI,55.71,Groceries expense via UPI,May,2025
+5/28/2025,Rent,House Rent,Debit Card,584,House Rent expense via Debit Card,May,2025
+5/28/2025,Food,Restaurant,Debit Card,31.9,Restaurant expense via Debit Card,May,2025
+5/29/2025,Shopping,Electronics,Cash,40.5,Electronics expense via Cash,May,2025
+5/29/2025,Others,Miscellaneous,Debit Card,19.41,Miscellaneous expense via Debit Card,May,2025
+5/29/2025,Shopping,Clothes,Cash,33.11,Clothes expense via Cash,May,2025
+5/29/2025,Shopping,Accessories,UPI,57.16,Accessories expense via UPI,May,2025
+5/30/2025,Travel,Bus,Cash,22.66,Bus expense via Cash,May,2025
+5/30/2025,Travel,Cab,Debit Card,41.72,Cab expense via Debit Card,May,2025
+5/30/2025,Utilities,Gas,UPI,33.35,Gas expense via UPI,May,2025
+5/30/2025,Health,Doctor Visit,Debit Card,39.53,Doctor Visit expense via Debit Card,May,2025
+5/31/2025,Utilities,Internet,Debit Card,25.33,Internet expense via Debit Card,May,2025
+5/31/2025,Shopping,Clothes,Cash,64.88,Clothes expense via Cash,May,2025
+5/31/2025,Food,Groceries,Debit Card,55.66,Groceries expense via Debit Card,May,2025
+5/31/2025,Others,Gifts,UPI,16.76,Gifts expense via UPI,May,2025
+5/31/2025,Food,Restaurant,UPI,49.18,Restaurant expense via UPI,May,2025
+6/1/2025,Others,Miscellaneous,Debit Card,4.51,Miscellaneous expense via Debit Card,June,2025
+6/1/2025,Rent,House Rent,Cash,436.58,House Rent expense via Cash,June,2025
+6/1/2025,Food,Restaurant,Cash,22.74,Restaurant expense via Cash,June,2025
+6/2/2025,Shopping,Accessories,Debit Card,30.9,Accessories expense via Debit Card,June,2025
+6/2/2025,Health,Doctor Visit,Cash,64.6,Doctor Visit expense via Cash,June,2025
+6/2/2025,Health,Doctor Visit,Debit Card,29.23,Doctor Visit expense via Debit Card,June,2025
+6/2/2025,Utilities,Gas,UPI,55.47,Gas expense via UPI,June,2025
+6/2/2025,Shopping,Electronics,UPI,22.64,Electronics expense via UPI,June,2025
+6/3/2025,Rent,House Rent,UPI,411.16,House Rent expense via UPI,June,2025
+6/3/2025,Travel,Bus,UPI,25.55,Bus expense via UPI,June,2025
+6/4/2025,Shopping,Clothes,Cash,44.18,Clothes expense via Cash,June,2025
+6/4/2025,Travel,Bus,Debit Card,31.48,Bus expense via Debit Card,June,2025
+6/5/2025,Rent,House Rent,Debit Card,342.22,House Rent expense via Debit Card,June,2025
+6/5/2025,Food,Restaurant,Cash,20.7,Restaurant expense via Cash,June,2025
+6/5/2025,Shopping,Electronics,Cash,4.9,Electronics expense via Cash,June,2025
+6/5/2025,Utilities,Gas,Cash,32.82,Gas expense via Cash,June,2025
+6/6/2025,Shopping,Clothes,Debit Card,31.58,Clothes expense via Debit Card,June,2025
+6/6/2025,Health,Doctor Visit,UPI,34.88,Doctor Visit expense via UPI,June,2025
+6/6/2025,Health,Doctor Visit,UPI,30.35,Doctor Visit expense via UPI,June,2025
+6/6/2025,Food,Groceries,UPI,19.7,Groceries expense via UPI,June,2025
+6/6/2025,Shopping,Accessories,Debit Card,4.31,Accessories expense via Debit Card,June,2025
+6/7/2025,Rent,House Rent,UPI,399.9,House Rent expense via UPI,June,2025
+6/7/2025,Others,Gifts,UPI,8.99,Gifts expense via UPI,June,2025
+6/7/2025,Shopping,Electronics,Debit Card,16.41,Electronics expense via Debit Card,June,2025
+6/7/2025,Others,Gifts,Debit Card,8.28,Gifts expense via Debit Card,June,2025
+6/8/2025,Utilities,Internet,UPI,33.11,Internet expense via UPI,June,2025
+6/8/2025,Others,Miscellaneous,Cash,13.61,Miscellaneous expense via Cash,June,2025
+6/9/2025,Utilities,Internet,Debit Card,40.7,Internet expense via Debit Card,June,2025
+6/9/2025,Utilities,Internet,UPI,3.46,Internet expense via UPI,June,2025
+6/10/2025,Rent,House Rent,UPI,547.93,House Rent expense via UPI,June,2025
+6/10/2025,Others,Gifts,Debit Card,29.71,Gifts expense via Debit Card,June,2025
+6/10/2025,Shopping,Clothes,Cash,40.87,Clothes expense via Cash,June,2025
+6/10/2025,Food,Restaurant,Cash,19.4,Restaurant expense via Cash,June,2025
+6/11/2025,Others,Miscellaneous,Cash,9.16,Miscellaneous expense via Cash,June,2025
+6/11/2025,Others,Miscellaneous,Cash,29.02,Miscellaneous expense via Cash,June,2025
+6/11/2025,Others,Gifts,Debit Card,11.69,Gifts expense via Debit Card,June,2025
+6/12/2025,Health,Medicine,Debit Card,20.79,Medicine expense via Debit Card,June,2025
+6/12/2025,Food,Groceries,Cash,34.08,Groceries expense via Cash,June,2025
+6/12/2025,Food,Restaurant,Debit Card,41.82,Restaurant expense via Debit Card,June,2025
+6/12/2025,Food,Restaurant,Cash,18.36,Restaurant expense via Cash,June,2025
+6/12/2025,Utilities,Internet,Cash,6.14,Internet expense via Cash,June,2025
+6/13/2025,Utilities,Water Bill,Debit Card,25.97,Water Bill expense via Debit Card,June,2025
+6/13/2025,Rent,House Rent,Debit Card,500.9,House Rent expense via Debit Card,June,2025
+6/14/2025,Travel,Bus,Debit Card,29.99,Bus expense via Debit Card,June,2025
+6/14/2025,Shopping,Accessories,Cash,40.99,Accessories expense via Cash,June,2025
+6/14/2025,Rent,House Rent,UPI,512.96,House Rent expense via UPI,June,2025
+6/14/2025,Utilities,Gas,Debit Card,2.8,Gas expense via Debit Card,June,2025
+6/14/2025,Travel,Cab,Debit Card,34.09,Cab expense via Debit Card,June,2025
+6/15/2025,Food,Restaurant,Debit Card,27.55,Restaurant expense via Debit Card,June,2025
+6/15/2025,Others,Miscellaneous,Debit Card,19.75,Miscellaneous expense via Debit Card,June,2025
+6/16/2025,Travel,Train,Debit Card,23,Train expense via Debit Card,June,2025
+6/16/2025,Food,Groceries,Cash,38.62,Groceries expense via Cash,June,2025
+6/16/2025,Health,Medicine,UPI,26.68,Medicine expense via UPI,June,2025
+6/16/2025,Rent,House Rent,Cash,441.42,House Rent expense via Cash,June,2025
+6/16/2025,Others,Gifts,Cash,7.91,Gifts expense via Cash,June,2025
+6/17/2025,Health,Medicine,Debit Card,28.49,Medicine expense via Debit Card,June,2025
+6/17/2025,Health,Doctor Visit,Debit Card,5.16,Doctor Visit expense via Debit Card,June,2025
+6/17/2025,Travel,Cab,Debit Card,10.68,Cab expense via Debit Card,June,2025
+6/18/2025,Others,Gifts,UPI,13.95,Gifts expense via UPI,June,2025
+6/18/2025,Others,Gifts,UPI,12.4,Gifts expense via UPI,June,2025
+6/19/2025,Health,Medicine,Cash,33.84,Medicine expense via Cash,June,2025
+6/19/2025,Shopping,Clothes,Cash,22.8,Clothes expense via Cash,June,2025
+6/19/2025,Utilities,Electric Bill,Debit Card,40.21,Electric Bill expense via Debit Card,June,2025
+6/19/2025,Travel,Train,UPI,28.87,Train expense via UPI,June,2025
+6/19/2025,Health,Doctor Visit,Debit Card,24.03,Doctor Visit expense via Debit Card,June,2025
+6/20/2025,Utilities,Electric Bill,UPI,21.85,Electric Bill expense via UPI,June,2025
+6/20/2025,Rent,House Rent,Debit Card,419.52,House Rent expense via Debit Card,June,2025
+6/20/2025,Health,Medicine,Cash,34.13,Medicine expense via Cash,June,2025
+6/21/2025,Travel,Cab,UPI,23.61,Cab expense via UPI,June,2025
+6/21/2025,Rent,House Rent,Debit Card,398.88,House Rent expense via Debit Card,June,2025
+6/22/2025,Utilities,Electric Bill,Debit Card,47.67,Electric Bill expense via Debit Card,June,2025
+6/22/2025,Food,Snacks,UPI,14.74,Snacks expense via UPI,June,2025
+6/22/2025,Travel,Bus,Debit Card,14.92,Bus expense via Debit Card,June,2025
+6/22/2025,Others,Gifts,Debit Card,8.06,Gifts expense via Debit Card,June,2025
+6/22/2025,Rent,House Rent,Cash,463.24,House Rent expense via Cash,June,2025
+6/23/2025,Health,Doctor Visit,Debit Card,30.72,Doctor Visit expense via Debit Card,June,2025
+6/23/2025,Utilities,Water Bill,Cash,2.8,Water Bill expense via Cash,June,2025
+6/23/2025,Travel,Cab,UPI,19.23,Cab expense via UPI,June,2025
+6/23/2025,Travel,Train,Cash,26.03,Train expense via Cash,June,2025
+6/23/2025,Others,Miscellaneous,Debit Card,6.44,Miscellaneous expense via Debit Card,June,2025
+6/24/2025,Travel,Train,Cash,20.18,Train expense via Cash,June,2025
+6/24/2025,Others,Miscellaneous,UPI,17.19,Miscellaneous expense via UPI,June,2025
+6/24/2025,Others,Miscellaneous,UPI,2.8,Miscellaneous expense via UPI,June,2025
+6/24/2025,Food,Snacks,Cash,38.42,Snacks expense via Cash,June,2025
+6/25/2025,Travel,Cab,Debit Card,14.87,Cab expense via Debit Card,June,2025
+6/25/2025,Others,Gifts,Cash,19.05,Gifts expense via Cash,June,2025
+6/25/2025,Travel,Fuel,UPI,26.84,Fuel expense via UPI,June,2025
+6/25/2025,Others,Gifts,Debit Card,17.56,Gifts expense via Debit Card,June,2025
+6/25/2025,Food,Restaurant,Debit Card,24.16,Restaurant expense via Debit Card,June,2025
+6/26/2025,Rent,House Rent,Debit Card,524.96,House Rent expense via Debit Card,June,2025
+6/26/2025,Rent,House Rent,UPI,482.58,House Rent expense via UPI,June,2025
+6/26/2025,Health,Doctor Visit,UPI,13.37,Doctor Visit expense via UPI,June,2025
+6/27/2025,Food,Groceries,Cash,31.02,Groceries expense via Cash,June,2025
+6/27/2025,Others,Miscellaneous,UPI,19.82,Miscellaneous expense via UPI,June,2025
+6/27/2025,Rent,House Rent,UPI,394.42,House Rent expense via UPI,June,2025
+6/27/2025,Rent,House Rent,Debit Card,431.3,House Rent expense via Debit Card,June,2025
+6/27/2025,Travel,Fuel,Cash,10.89,Fuel expense via Cash,June,2025
+6/28/2025,Rent,House Rent,Cash,360.59,House Rent expense via Cash,June,2025
+6/28/2025,Others,Miscellaneous,Cash,9.99,Miscellaneous expense via Cash,June,2025
+6/28/2025,Food,Restaurant,Debit Card,23.26,Restaurant expense via Debit Card,June,2025
+6/29/2025,Health,Medicine,UPI,11.23,Medicine expense via UPI,June,2025
+6/29/2025,Food,Restaurant,UPI,24.77,Restaurant expense via UPI,June,2025
+6/29/2025,Rent,House Rent,Cash,373.03,House Rent expense via Cash,June,2025
+6/29/2025,Utilities,Water Bill,UPI,13.35,Water Bill expense via UPI,June,2025
+6/29/2025,Rent,House Rent,Debit Card,439.27,House Rent expense via Debit Card,June,2025
+6/30/2025,Food,Snacks,UPI,3.65,Snacks expense via UPI,June,2025
+6/30/2025,Health,Doctor Visit,UPI,19.47,Doctor Visit expense via UPI,June,2025
+6/30/2025,Health,Doctor Visit,Debit Card,20.89,Doctor Visit expense via Debit Card,June,2025
+6/30/2025,Food,Groceries,Debit Card,46.97,Groceries expense via Debit Card,June,2025
+6/30/2025,Health,Medicine,Cash,45.29,Medicine expense via Cash,June,2025
+7/1/2025,Rent,House Rent,Cash,585.27,House Rent expense via Cash,July,2025
+7/1/2025,Utilities,Electric Bill,Debit Card,34.76,Electric Bill expense via Debit Card,July,2025
+7/1/2025,Rent,House Rent,Cash,421.85,House Rent expense via Cash,July,2025
+7/1/2025,Others,Gifts,Cash,38.09,Gifts expense via Cash,July,2025
+7/2/2025,Travel,Bus,Cash,44.03,Bus expense via Cash,July,2025
+7/2/2025,Shopping,Accessories,Cash,40.46,Accessories expense via Cash,July,2025
+7/2/2025,Shopping,Clothes,Cash,20.96,Clothes expense via Cash,July,2025
+7/2/2025,Utilities,Water Bill,Cash,32.46,Water Bill expense via Cash,July,2025
+7/3/2025,Health,Medicine,Cash,31.98,Medicine expense via Cash,July,2025
+7/3/2025,Rent,House Rent,UPI,521.21,House Rent expense via UPI,July,2025
+7/3/2025,Health,Doctor Visit,Debit Card,29.17,Doctor Visit expense via Debit Card,July,2025
+7/3/2025,Shopping,Electronics,Cash,45.54,Electronics expense via Cash,July,2025
+7/3/2025,Travel,Cab,Debit Card,64.39,Cab expense via Debit Card,July,2025
+7/4/2025,Travel,Cab,UPI,23.78,Cab expense via UPI,July,2025
+7/4/2025,Others,Gifts,Cash,24.45,Gifts expense via Cash,July,2025
+7/4/2025,Travel,Fuel,UPI,27.99,Fuel expense via UPI,July,2025
+7/4/2025,Food,Snacks,Cash,18.48,Snacks expense via Cash,July,2025
+7/4/2025,Utilities,Water Bill,UPI,46.52,Water Bill expense via UPI,July,2025
+7/5/2025,Shopping,Electronics,UPI,24.08,Electronics expense via UPI,July,2025
+7/5/2025,Rent,House Rent,UPI,646.88,House Rent expense via UPI,July,2025
+7/5/2025,Utilities,Electric Bill,Cash,29.14,Electric Bill expense via Cash,July,2025
+7/5/2025,Utilities,Water Bill,Cash,28.63,Water Bill expense via Cash,July,2025
+7/5/2025,Food,Restaurant,UPI,29.21,Restaurant expense via UPI,July,2025
+7/6/2025,Travel,Train,Debit Card,3.51,Train expense via Debit Card,July,2025
+7/6/2025,Others,Gifts,UPI,13.28,Gifts expense via UPI,July,2025
+7/7/2025,Food,Groceries,UPI,15.52,Groceries expense via UPI,July,2025
+7/7/2025,Shopping,Electronics,Debit Card,25.64,Electronics expense via Debit Card,July,2025
+7/7/2025,Shopping,Accessories,UPI,37.11,Accessories expense via UPI,July,2025
+7/7/2025,Food,Restaurant,UPI,41.34,Restaurant expense via UPI,July,2025
+7/7/2025,Utilities,Gas,Cash,3.51,Gas expense via Cash,July,2025
+7/8/2025,Health,Doctor Visit,Cash,23.78,Doctor Visit expense via Cash,July,2025
+7/8/2025,Others,Miscellaneous,UPI,17.21,Miscellaneous expense via UPI,July,2025
+7/8/2025,Shopping,Electronics,UPI,16.47,Electronics expense via UPI,July,2025
+7/8/2025,Shopping,Clothes,UPI,6.42,Clothes expense via UPI,July,2025
+7/8/2025,Rent,House Rent,Cash,486.01,House Rent expense via Cash,July,2025
+7/9/2025,Health,Medicine,Debit Card,57.19,Medicine expense via Debit Card,July,2025
+7/9/2025,Shopping,Accessories,UPI,26.49,Accessories expense via UPI,July,2025
+7/9/2025,Rent,House Rent,Cash,393.68,House Rent expense via Cash,July,2025
+7/9/2025,Health,Medicine,UPI,34.84,Medicine expense via UPI,July,2025
+7/9/2025,Rent,House Rent,Cash,459.5,House Rent expense via Cash,July,2025
+7/10/2025,Travel,Cab,UPI,28.46,Cab expense via UPI,July,2025
+7/10/2025,Shopping,Electronics,Debit Card,14.46,Electronics expense via Debit Card,July,2025
+7/10/2025,Food,Restaurant,UPI,23.36,Restaurant expense via UPI,July,2025
+7/11/2025,Health,Doctor Visit,UPI,24.67,Doctor Visit expense via UPI,July,2025
+7/11/2025,Travel,Fuel,Cash,3.51,Fuel expense via Cash,July,2025
+7/11/2025,Shopping,Clothes,Cash,15.48,Clothes expense via Cash,July,2025
+7/11/2025,Rent,House Rent,UPI,686.96,House Rent expense via UPI,July,2025
+7/12/2025,Travel,Bus,Cash,37.42,Bus expense via Cash,July,2025
+7/12/2025,Rent,House Rent,Debit Card,568.7,House Rent expense via Debit Card,July,2025
+7/12/2025,Health,Doctor Visit,Debit Card,10.47,Doctor Visit expense via Debit Card,July,2025
+7/13/2025,Health,Doctor Visit,Cash,32.93,Doctor Visit expense via Cash,July,2025
+7/13/2025,Others,Miscellaneous,UPI,8.38,Miscellaneous expense via UPI,July,2025
+7/13/2025,Utilities,Internet,Debit Card,8.98,Internet expense via Debit Card,July,2025
+7/13/2025,Utilities,Electric Bill,Debit Card,13.1,Electric Bill expense via Debit Card,July,2025
+7/13/2025,Others,Miscellaneous,UPI,27.48,Miscellaneous expense via UPI,July,2025
+7/14/2025,Food,Restaurant,Debit Card,11.86,Restaurant expense via Debit Card,July,2025
+7/14/2025,Food,Restaurant,Cash,24.68,Restaurant expense via Cash,July,2025
+7/15/2025,Food,Restaurant,UPI,57.67,Restaurant expense via UPI,July,2025
+7/15/2025,Shopping,Accessories,Cash,44.53,Accessories expense via Cash,July,2025
+7/15/2025,Travel,Train,UPI,34.35,Train expense via UPI,July,2025
+7/15/2025,Food,Snacks,Cash,14.17,Snacks expense via Cash,July,2025
+7/15/2025,Others,Miscellaneous,Debit Card,27.2,Miscellaneous expense via Debit Card,July,2025
+7/16/2025,Travel,Cab,Debit Card,13.08,Cab expense via Debit Card,July,2025
+7/16/2025,Travel,Train,Debit Card,41.81,Train expense via Debit Card,July,2025
+7/16/2025,Food,Groceries,Debit Card,55.98,Groceries expense via Debit Card,July,2025
+7/16/2025,Shopping,Clothes,Cash,13.03,Clothes expense via Cash,July,2025
+7/17/2025,Utilities,Gas,Cash,34.75,Gas expense via Cash,July,2025
+7/17/2025,Others,Miscellaneous,Cash,17.64,Miscellaneous expense via Cash,July,2025
+7/17/2025,Health,Medicine,Cash,62,Medicine expense via Cash,July,2025
+7/17/2025,Utilities,Internet,Debit Card,30.6,Internet expense via Debit Card,July,2025
+7/17/2025,Shopping,Electronics,Debit Card,19.74,Electronics expense via Debit Card,July,2025
+7/18/2025,Rent,House Rent,Debit Card,464.2,House Rent expense via Debit Card,July,2025
+7/18/2025,Travel,Cab,Debit Card,25.29,Cab expense via Debit Card,July,2025
+7/18/2025,Health,Medicine,UPI,46.38,Medicine expense via UPI,July,2025
+7/19/2025,Utilities,Gas,Cash,33.57,Gas expense via Cash,July,2025
+7/19/2025,Shopping,Clothes,Debit Card,24.07,Clothes expense via Debit Card,July,2025
+7/19/2025,Shopping,Clothes,UPI,57.03,Clothes expense via UPI,July,2025
+7/19/2025,Others,Gifts,Debit Card,21.03,Gifts expense via Debit Card,July,2025
+7/20/2025,Travel,Cab,Debit Card,42.83,Cab expense via Debit Card,July,2025
+7/20/2025,Utilities,Electric Bill,Debit Card,18.57,Electric Bill expense via Debit Card,July,2025
+7/20/2025,Others,Gifts,Cash,23.83,Gifts expense via Cash,July,2025
+7/20/2025,Food,Snacks,UPI,13.25,Snacks expense via UPI,July,2025
+7/21/2025,Food,Snacks,UPI,53.29,Snacks expense via UPI,July,2025
+7/21/2025,Utilities,Internet,Cash,5,Internet expense via Cash,July,2025
+7/21/2025,Rent,House Rent,Debit Card,397.7,House Rent expense via Debit Card,July,2025
+7/21/2025,Utilities,Gas,Cash,37.2,Gas expense via Cash,July,2025
+7/22/2025,Others,Miscellaneous,Debit Card,23.91,Miscellaneous expense via Debit Card,July,2025
+7/22/2025,Utilities,Electric Bill,Debit Card,14.41,Electric Bill expense via Debit Card,July,2025
+7/22/2025,Food,Snacks,UPI,3.51,Snacks expense via UPI,July,2025
+7/22/2025,Shopping,Accessories,Debit Card,48.48,Accessories expense via Debit Card,July,2025
+7/23/2025,Shopping,Accessories,Cash,30.62,Accessories expense via Cash,July,2025
+7/23/2025,Others,Miscellaneous,Cash,13.49,Miscellaneous expense via Cash,July,2025
+7/23/2025,Others,Gifts,Debit Card,27.09,Gifts expense via Debit Card,July,2025
+7/23/2025,Others,Gifts,Cash,28.78,Gifts expense via Cash,July,2025
+7/24/2025,Health,Doctor Visit,Debit Card,21.94,Doctor Visit expense via Debit Card,July,2025
+7/24/2025,Travel,Bus,Cash,3.51,Bus expense via Cash,July,2025
+7/25/2025,Travel,Cab,Debit Card,33.9,Cab expense via Debit Card,July,2025
+7/25/2025,Travel,Fuel,Cash,14.33,Fuel expense via Cash,July,2025
+7/25/2025,Utilities,Gas,UPI,28.13,Gas expense via UPI,July,2025
+7/26/2025,Rent,House Rent,Debit Card,544.03,House Rent expense via Debit Card,July,2025
+7/26/2025,Travel,Bus,Debit Card,16.16,Bus expense via Debit Card,July,2025
+7/27/2025,Utilities,Water Bill,Debit Card,66.91,Water Bill expense via Debit Card,July,2025
+7/27/2025,Travel,Train,UPI,46.51,Train expense via UPI,July,2025
+7/27/2025,Travel,Train,Debit Card,30.3,Train expense via Debit Card,July,2025
+7/28/2025,Utilities,Gas,Debit Card,7.37,Gas expense via Debit Card,July,2025
+7/28/2025,Food,Groceries,Debit Card,42.86,Groceries expense via Debit Card,July,2025
+7/28/2025,Food,Restaurant,Cash,3.51,Restaurant expense via Cash,July,2025
+7/28/2025,Rent,House Rent,UPI,510.06,House Rent expense via UPI,July,2025
+7/28/2025,Travel,Train,Cash,24.86,Train expense via Cash,July,2025
+7/29/2025,Health,Doctor Visit,Cash,15.48,Doctor Visit expense via Cash,July,2025
+7/29/2025,Shopping,Accessories,Debit Card,24.55,Accessories expense via Debit Card,July,2025
+7/29/2025,Health,Medicine,UPI,26.19,Medicine expense via UPI,July,2025
+7/29/2025,Shopping,Accessories,Cash,21.09,Accessories expense via Cash,July,2025
+7/30/2025,Shopping,Electronics,Debit Card,53.24,Electronics expense via Debit Card,July,2025
+7/30/2025,Rent,House Rent,Cash,373.81,House Rent expense via Cash,July,2025
+7/30/2025,Utilities,Internet,UPI,34.23,Internet expense via UPI,July,2025
+7/31/2025,Food,Groceries,UPI,42.64,Groceries expense via UPI,July,2025
+7/31/2025,Utilities,Electric Bill,UPI,41.46,Electric Bill expense via UPI,July,2025
+7/31/2025,Food,Snacks,UPI,41.11,Snacks expense via UPI,July,2025
+8/1/2025,Food,Groceries,UPI,29.49,Groceries expense via UPI,August,2025
+8/1/2025,Health,Doctor Visit,Cash,21.26,Doctor Visit expense via Cash,August,2025
+8/1/2025,Rent,House Rent,Debit Card,366.31,House Rent expense via Debit Card,August,2025
+8/2/2025,Travel,Train,UPI,13.35,Train expense via UPI,August,2025
+8/2/2025,Health,Doctor Visit,Cash,27.29,Doctor Visit expense via Cash,August,2025
+8/2/2025,Travel,Bus,Cash,32.4,Bus expense via Cash,August,2025
+8/2/2025,Travel,Bus,UPI,26.22,Bus expense via UPI,August,2025
+8/2/2025,Food,Restaurant,Debit Card,42.29,Restaurant expense via Debit Card,August,2025
+8/3/2025,Food,Snacks,Debit Card,36.26,Snacks expense via Debit Card,August,2025
+8/3/2025,Rent,House Rent,Debit Card,407.9,House Rent expense via Debit Card,August,2025
+8/3/2025,Health,Medicine,Cash,20.21,Medicine expense via Cash,August,2025
+8/3/2025,Utilities,Gas,Debit Card,14.01,Gas expense via Debit Card,August,2025
+8/3/2025,Health,Medicine,UPI,15.58,Medicine expense via UPI,August,2025
+8/4/2025,Health,Medicine,Debit Card,50.12,Medicine expense via Debit Card,August,2025
+8/4/2025,Others,Gifts,Debit Card,26.39,Gifts expense via Debit Card,August,2025
+8/4/2025,Utilities,Water Bill,UPI,24.6,Water Bill expense via UPI,August,2025
+8/4/2025,Others,Gifts,Debit Card,18.11,Gifts expense via Debit Card,August,2025
+8/4/2025,Utilities,Internet,Cash,54.29,Internet expense via Cash,August,2025
+8/5/2025,Others,Miscellaneous,Debit Card,10.91,Miscellaneous expense via Debit Card,August,2025
+8/5/2025,Rent,House Rent,Debit Card,465.95,House Rent expense via Debit Card,August,2025
+8/5/2025,Shopping,Clothes,Debit Card,24.36,Clothes expense via Debit Card,August,2025
+8/6/2025,Utilities,Electric Bill,Cash,29.85,Electric Bill expense via Cash,August,2025
+8/6/2025,Utilities,Water Bill,UPI,26.29,Water Bill expense via UPI,August,2025
+8/6/2025,Health,Medicine,UPI,44.85,Medicine expense via UPI,August,2025
+8/6/2025,Rent,House Rent,Debit Card,394.11,House Rent expense via Debit Card,August,2025
+8/7/2025,Travel,Bus,UPI,28.14,Bus expense via UPI,August,2025
+8/7/2025,Others,Gifts,UPI,20.21,Gifts expense via UPI,August,2025
+8/7/2025,Food,Groceries,Cash,42.32,Groceries expense via Cash,August,2025
+8/7/2025,Shopping,Accessories,UPI,19.77,Accessories expense via UPI,August,2025
+8/7/2025,Utilities,Water Bill,Cash,6.19,Water Bill expense via Cash,August,2025
+8/8/2025,Food,Restaurant,Cash,14.82,Restaurant expense via Cash,August,2025
+8/8/2025,Shopping,Accessories,UPI,20.58,Accessories expense via UPI,August,2025
+8/8/2025,Food,Restaurant,Debit Card,21.64,Restaurant expense via Debit Card,August,2025
+8/8/2025,Food,Snacks,Cash,62.62,Snacks expense via Cash,August,2025
+8/9/2025,Travel,Fuel,UPI,9.16,Fuel expense via UPI,August,2025
+8/9/2025,Utilities,Water Bill,Debit Card,16.42,Water Bill expense via Debit Card,August,2025
+8/9/2025,Rent,House Rent,Cash,418.99,House Rent expense via Cash,August,2025
+8/9/2025,Utilities,Electric Bill,UPI,2.88,Electric Bill expense via UPI,August,2025
+8/9/2025,Utilities,Internet,UPI,16.27,Internet expense via UPI,August,2025
+8/10/2025,Food,Snacks,Debit Card,30.48,Snacks expense via Debit Card,August,2025
+8/10/2025,Food,Groceries,Cash,35.41,Groceries expense via Cash,August,2025
+8/10/2025,Utilities,Electric Bill,UPI,51.9,Electric Bill expense via UPI,August,2025
+8/11/2025,Health,Doctor Visit,Debit Card,10.12,Doctor Visit expense via Debit Card,August,2025
+8/11/2025,Others,Miscellaneous,Cash,17.56,Miscellaneous expense via Cash,August,2025
+8/11/2025,Health,Medicine,Cash,2.88,Medicine expense via Cash,August,2025
+8/12/2025,Others,Miscellaneous,UPI,21.79,Miscellaneous expense via UPI,August,2025
+8/12/2025,Travel,Fuel,UPI,6.58,Fuel expense via UPI,August,2025
+8/12/2025,Rent,House Rent,Debit Card,302.35,House Rent expense via Debit Card,August,2025
+8/13/2025,Others,Gifts,Debit Card,14.26,Gifts expense via Debit Card,August,2025
+8/13/2025,Shopping,Accessories,Debit Card,55.54,Accessories expense via Debit Card,August,2025
+8/13/2025,Rent,House Rent,Cash,443.34,House Rent expense via Cash,August,2025
+8/13/2025,Others,Gifts,Cash,10.05,Gifts expense via Cash,August,2025
+8/13/2025,Utilities,Gas,Debit Card,46.24,Gas expense via Debit Card,August,2025
+8/14/2025,Rent,House Rent,UPI,443.92,House Rent expense via UPI,August,2025
+8/14/2025,Food,Snacks,Debit Card,26.39,Snacks expense via Debit Card,August,2025
+8/14/2025,Utilities,Internet,Cash,19.74,Internet expense via Cash,August,2025
+8/14/2025,Travel,Cab,Debit Card,10.89,Cab expense via Debit Card,August,2025
+8/14/2025,Shopping,Clothes,UPI,53.74,Clothes expense via UPI,August,2025
+8/15/2025,Food,Snacks,Debit Card,36.56,Snacks expense via Debit Card,August,2025
+8/15/2025,Utilities,Internet,Debit Card,61.09,Internet expense via Debit Card,August,2025
+8/16/2025,Food,Restaurant,Debit Card,27.72,Restaurant expense via Debit Card,August,2025
+8/16/2025,Shopping,Clothes,UPI,30.73,Clothes expense via UPI,August,2025
+8/16/2025,Others,Miscellaneous,Debit Card,16.99,Miscellaneous expense via Debit Card,August,2025
+8/16/2025,Travel,Bus,Debit Card,9.4,Bus expense via Debit Card,August,2025
+8/17/2025,Utilities,Electric Bill,UPI,20.3,Electric Bill expense via UPI,August,2025
+8/17/2025,Others,Miscellaneous,Debit Card,19.8,Miscellaneous expense via Debit Card,August,2025
+8/17/2025,Travel,Cab,Debit Card,25.58,Cab expense via Debit Card,August,2025
+8/17/2025,Rent,House Rent,Debit Card,375.01,House Rent expense via Debit Card,August,2025
+8/17/2025,Travel,Bus,Debit Card,9.06,Bus expense via Debit Card,August,2025
+8/18/2025,Shopping,Accessories,Cash,36.71,Accessories expense via Cash,August,2025
+8/18/2025,Rent,House Rent,Debit Card,421.35,House Rent expense via Debit Card,August,2025
+8/18/2025,Shopping,Accessories,UPI,9.4,Accessories expense via UPI,August,2025
+8/18/2025,Health,Medicine,Debit Card,26.33,Medicine expense via Debit Card,August,2025
+8/18/2025,Food,Groceries,Cash,50.3,Groceries expense via Cash,August,2025
+8/19/2025,Health,Doctor Visit,UPI,22.22,Doctor Visit expense via UPI,August,2025
+8/19/2025,Travel,Fuel,UPI,36.46,Fuel expense via UPI,August,2025
+8/19/2025,Utilities,Water Bill,Debit Card,31.61,Water Bill expense via Debit Card,August,2025
+8/20/2025,Rent,House Rent,UPI,454.99,House Rent expense via UPI,August,2025
+8/20/2025,Utilities,Electric Bill,UPI,29.17,Electric Bill expense via UPI,August,2025
+8/20/2025,Others,Miscellaneous,Cash,8.38,Miscellaneous expense via Cash,August,2025
+8/21/2025,Shopping,Clothes,Debit Card,20.83,Clothes expense via Debit Card,August,2025
+8/21/2025,Rent,House Rent,Debit Card,291.4,House Rent expense via Debit Card,August,2025
+8/21/2025,Others,Gifts,UPI,6.5,Gifts expense via UPI,August,2025
+8/21/2025,Health,Medicine,Cash,5.64,Medicine expense via Cash,August,2025
+8/21/2025,Shopping,Clothes,Debit Card,18.91,Clothes expense via Debit Card,August,2025
+8/22/2025,Others,Miscellaneous,Cash,27.56,Miscellaneous expense via Cash,August,2025
+8/22/2025,Shopping,Electronics,Cash,34.94,Electronics expense via Cash,August,2025
+8/22/2025,Rent,House Rent,Cash,419.59,House Rent expense via Cash,August,2025
+8/23/2025,Health,Doctor Visit,UPI,20.78,Doctor Visit expense via UPI,August,2025
+8/23/2025,Utilities,Internet,Debit Card,30.12,Internet expense via Debit Card,August,2025
+8/23/2025,Rent,House Rent,UPI,478.58,House Rent expense via UPI,August,2025
+8/23/2025,Rent,House Rent,Debit Card,418.79,House Rent expense via Debit Card,August,2025
+8/24/2025,Rent,House Rent,UPI,462.7,House Rent expense via UPI,August,2025
+8/24/2025,Travel,Bus,UPI,20.54,Bus expense via UPI,August,2025
+8/25/2025,Health,Doctor Visit,Cash,23.46,Doctor Visit expense via Cash,August,2025
+8/25/2025,Shopping,Clothes,Cash,53.31,Clothes expense via Cash,August,2025
+8/25/2025,Others,Gifts,Cash,23.85,Gifts expense via Cash,August,2025
+8/25/2025,Travel,Fuel,Debit Card,25.04,Fuel expense via Debit Card,August,2025
+8/25/2025,Utilities,Gas,Cash,51.64,Gas expense via Cash,August,2025
+8/26/2025,Health,Medicine,Cash,21.76,Medicine expense via Cash,August,2025
+8/26/2025,Travel,Bus,Debit Card,19.26,Bus expense via Debit Card,August,2025
+8/26/2025,Utilities,Electric Bill,Cash,24.03,Electric Bill expense via Cash,August,2025
+8/26/2025,Travel,Cab,UPI,20.7,Cab expense via UPI,August,2025
+8/26/2025,Utilities,Water Bill,UPI,20.91,Water Bill expense via UPI,August,2025
+8/27/2025,Shopping,Clothes,UPI,17.76,Clothes expense via UPI,August,2025
+8/27/2025,Utilities,Water Bill,Cash,5.55,Water Bill expense via Cash,August,2025
+8/27/2025,Others,Gifts,UPI,4.66,Gifts expense via UPI,August,2025
+8/28/2025,Shopping,Clothes,UPI,34.51,Clothes expense via UPI,August,2025
+8/28/2025,Shopping,Clothes,Cash,25.09,Clothes expense via Cash,August,2025
+8/28/2025,Shopping,Electronics,Debit Card,33.9,Electronics expense via Debit Card,August,2025
+8/29/2025,Others,Gifts,Debit Card,12.24,Gifts expense via Debit Card,August,2025
+8/29/2025,Utilities,Water Bill,Cash,13.14,Water Bill expense via Cash,August,2025
+8/29/2025,Health,Doctor Visit,UPI,39.96,Doctor Visit expense via UPI,August,2025
+8/29/2025,Health,Doctor Visit,UPI,28.92,Doctor Visit expense via UPI,August,2025
+8/29/2025,Shopping,Electronics,Debit Card,26.43,Electronics expense via Debit Card,August,2025
+8/30/2025,Others,Miscellaneous,Debit Card,32.36,Miscellaneous expense via Debit Card,August,2025
+8/30/2025,Travel,Cab,Cash,13.83,Cab expense via Cash,August,2025
+8/31/2025,Rent,House Rent,UPI,412.33,House Rent expense via UPI,August,2025
+8/31/2025,Rent,House Rent,Debit Card,425.44,House Rent expense via Debit Card,August,2025
+8/31/2025,Shopping,Electronics,Debit Card,48.3,Electronics expense via Debit Card,August,2025
+9/1/2025,Food,Snacks,Cash,20.82,Snacks expense via Cash,September,2025
+9/1/2025,Food,Snacks,Debit Card,19.72,Snacks expense via Debit Card,September,2025
+9/1/2025,Food,Snacks,UPI,39.07,Snacks expense via UPI,September,2025
+9/1/2025,Rent,House Rent,UPI,320.52,House Rent expense via UPI,September,2025
+9/1/2025,Rent,House Rent,Debit Card,435.11,House Rent expense via Debit Card,September,2025
+9/2/2025,Health,Medicine,Debit Card,51.14,Medicine expense via Debit Card,September,2025
+9/2/2025,Shopping,Accessories,Cash,27.01,Accessories expense via Cash,September,2025
+9/3/2025,Shopping,Clothes,Debit Card,44.3,Clothes expense via Debit Card,September,2025
+9/3/2025,Travel,Bus,Debit Card,29.19,Bus expense via Debit Card,September,2025
+9/3/2025,Shopping,Clothes,Debit Card,53.13,Clothes expense via Debit Card,September,2025
+9/3/2025,Health,Doctor Visit,Debit Card,42.75,Doctor Visit expense via Debit Card,September,2025
+9/3/2025,Others,Gifts,Cash,8.22,Gifts expense via Cash,September,2025
+9/4/2025,Utilities,Water Bill,Cash,20.28,Water Bill expense via Cash,September,2025
+9/4/2025,Utilities,Water Bill,UPI,26.14,Water Bill expense via UPI,September,2025
+9/5/2025,Travel,Fuel,Debit Card,13.23,Fuel expense via Debit Card,September,2025
+9/5/2025,Utilities,Internet,Cash,40.33,Internet expense via Cash,September,2025
+9/6/2025,Utilities,Water Bill,UPI,50.49,Water Bill expense via UPI,September,2025
+9/6/2025,Shopping,Electronics,Debit Card,29.39,Electronics expense via Debit Card,September,2025
+9/7/2025,Food,Restaurant,Cash,5.94,Restaurant expense via Cash,September,2025
+9/7/2025,Rent,House Rent,UPI,585.26,House Rent expense via UPI,September,2025
+9/7/2025,Shopping,Electronics,UPI,22.33,Electronics expense via UPI,September,2025
+9/7/2025,Food,Snacks,UPI,47.5,Snacks expense via UPI,September,2025
+9/8/2025,Rent,House Rent,UPI,413.91,House Rent expense via UPI,September,2025
+9/8/2025,Shopping,Electronics,Cash,11.95,Electronics expense via Cash,September,2025
+9/8/2025,Health,Medicine,UPI,24.22,Medicine expense via UPI,September,2025
+9/9/2025,Health,Doctor Visit,Cash,14.64,Doctor Visit expense via Cash,September,2025
+9/9/2025,Shopping,Accessories,Debit Card,34.56,Accessories expense via Debit Card,September,2025
+9/9/2025,Health,Medicine,Debit Card,41.1,Medicine expense via Debit Card,September,2025
+9/9/2025,Food,Snacks,Cash,38.13,Snacks expense via Cash,September,2025
+9/10/2025,Travel,Cab,Cash,19.91,Cab expense via Cash,September,2025
+9/10/2025,Food,Restaurant,Debit Card,34.68,Restaurant expense via Debit Card,September,2025
+9/11/2025,Travel,Train,UPI,21.32,Train expense via UPI,September,2025
+9/11/2025,Others,Miscellaneous,Debit Card,19.16,Miscellaneous expense via Debit Card,September,2025
+9/11/2025,Food,Groceries,UPI,45.6,Groceries expense via UPI,September,2025
+9/11/2025,Travel,Train,Cash,11.88,Train expense via Cash,September,2025
+9/12/2025,Rent,House Rent,Cash,611.36,House Rent expense via Cash,September,2025
+9/12/2025,Health,Medicine,Debit Card,42.97,Medicine expense via Debit Card,September,2025
+9/13/2025,Food,Restaurant,UPI,3.1,Restaurant expense via UPI,September,2025
+9/13/2025,Travel,Train,UPI,8.67,Train expense via UPI,September,2025
+9/13/2025,Utilities,Electric Bill,Cash,37.69,Electric Bill expense via Cash,September,2025
+9/13/2025,Travel,Fuel,UPI,23.91,Fuel expense via UPI,September,2025
+9/14/2025,Food,Restaurant,Cash,13.68,Restaurant expense via Cash,September,2025
+9/14/2025,Food,Restaurant,Debit Card,35.61,Restaurant expense via Debit Card,September,2025
+9/14/2025,Travel,Train,Cash,8.63,Train expense via Cash,September,2025
+9/14/2025,Rent,House Rent,Cash,582.35,House Rent expense via Cash,September,2025
+9/14/2025,Utilities,Electric Bill,Cash,32.31,Electric Bill expense via Cash,September,2025
+9/15/2025,Others,Miscellaneous,UPI,18.61,Miscellaneous expense via UPI,September,2025
+9/15/2025,Food,Restaurant,Cash,24.01,Restaurant expense via Cash,September,2025
+9/15/2025,Others,Gifts,Debit Card,19.89,Gifts expense via Debit Card,September,2025
+9/15/2025,Health,Doctor Visit,Cash,30.34,Doctor Visit expense via Cash,September,2025
+9/16/2025,Others,Gifts,UPI,10.58,Gifts expense via UPI,September,2025
+9/16/2025,Rent,House Rent,UPI,638.91,House Rent expense via UPI,September,2025
+9/16/2025,Food,Groceries,UPI,43.03,Groceries expense via UPI,September,2025
+9/17/2025,Food,Snacks,Debit Card,50.43,Snacks expense via Debit Card,September,2025
+9/17/2025,Health,Medicine,Debit Card,25.91,Medicine expense via Debit Card,September,2025
+9/17/2025,Rent,House Rent,Debit Card,548.18,House Rent expense via Debit Card,September,2025
+9/18/2025,Others,Miscellaneous,Debit Card,13.71,Miscellaneous expense via Debit Card,September,2025
+9/18/2025,Rent,House Rent,Debit Card,433.99,House Rent expense via Debit Card,September,2025
+9/19/2025,Travel,Bus,Cash,23.54,Bus expense via Cash,September,2025
+9/19/2025,Others,Gifts,Debit Card,15.83,Gifts expense via Debit Card,September,2025
+9/19/2025,Food,Groceries,UPI,49.19,Groceries expense via UPI,September,2025
+9/20/2025,Health,Medicine,Cash,23.1,Medicine expense via Cash,September,2025
+9/20/2025,Rent,House Rent,UPI,527.3,House Rent expense via UPI,September,2025
+9/20/2025,Rent,House Rent,Cash,480.95,House Rent expense via Cash,September,2025
+9/21/2025,Travel,Cab,Cash,30.16,Cab expense via Cash,September,2025
+9/21/2025,Travel,Train,Debit Card,27.39,Train expense via Debit Card,September,2025
+9/21/2025,Travel,Bus,UPI,29.99,Bus expense via UPI,September,2025
+9/22/2025,Travel,Cab,UPI,25.3,Cab expense via UPI,September,2025
+9/22/2025,Utilities,Internet,Cash,24.86,Internet expense via Cash,September,2025
+9/22/2025,Rent,House Rent,Debit Card,386.32,House Rent expense via Debit Card,September,2025
+9/23/2025,Shopping,Clothes,UPI,73.18,Clothes expense via UPI,September,2025
+9/23/2025,Shopping,Clothes,Cash,4.01,Clothes expense via Cash,September,2025
+9/23/2025,Food,Snacks,Debit Card,40.35,Snacks expense via Debit Card,September,2025
+9/23/2025,Health,Doctor Visit,Cash,33.2,Doctor Visit expense via Cash,September,2025
+9/23/2025,Others,Miscellaneous,UPI,15.89,Miscellaneous expense via UPI,September,2025
+9/24/2025,Rent,House Rent,UPI,498.18,House Rent expense via UPI,September,2025
+9/24/2025,Shopping,Electronics,Debit Card,46.02,Electronics expense via Debit Card,September,2025
+9/24/2025,Travel,Cab,UPI,21.42,Cab expense via UPI,September,2025
+9/24/2025,Food,Snacks,Debit Card,33.93,Snacks expense via Debit Card,September,2025
+9/24/2025,Utilities,Internet,Cash,10.35,Internet expense via Cash,September,2025
+9/25/2025,Utilities,Water Bill,Cash,37.03,Water Bill expense via Cash,September,2025
+9/25/2025,Rent,House Rent,Debit Card,423.37,House Rent expense via Debit Card,September,2025
+9/26/2025,Travel,Bus,Cash,3.1,Bus expense via Cash,September,2025
+9/26/2025,Others,Gifts,Cash,18.32,Gifts expense via Cash,September,2025
+9/26/2025,Shopping,Accessories,UPI,43.02,Accessories expense via UPI,September,2025
+9/27/2025,Others,Gifts,Cash,22.54,Gifts expense via Cash,September,2025
+9/27/2025,Travel,Bus,Debit Card,3.1,Bus expense via Debit Card,September,2025
+9/27/2025,Travel,Train,Debit Card,13.65,Train expense via Debit Card,September,2025
+9/27/2025,Health,Doctor Visit,Debit Card,59.76,Doctor Visit expense via Debit Card,September,2025
+9/27/2025,Utilities,Gas,Debit Card,33.71,Gas expense via Debit Card,September,2025
+9/28/2025,Health,Doctor Visit,UPI,20.51,Doctor Visit expense via UPI,September,2025
+9/28/2025,Health,Medicine,UPI,10.37,Medicine expense via UPI,September,2025
+9/28/2025,Health,Medicine,Debit Card,26.43,Medicine expense via Debit Card,September,2025
+9/28/2025,Others,Gifts,Cash,3.9,Gifts expense via Cash,September,2025
+9/29/2025,Food,Groceries,Cash,21.2,Groceries expense via Cash,September,2025
+9/29/2025,Shopping,Accessories,Debit Card,40.5,Accessories expense via Debit Card,September,2025
+9/30/2025,Health,Doctor Visit,Debit Card,50.77,Doctor Visit expense via Debit Card,September,2025
+9/30/2025,Travel,Cab,UPI,34.21,Cab expense via UPI,September,2025
+9/30/2025,Rent,House Rent,Debit Card,505.45,House Rent expense via Debit Card,September,2025
+9/30/2025,Rent,House Rent,Cash,270.53,House Rent expense via Cash,September,2025
+9/30/2025,Travel,Train,Debit Card,17.25,Train expense via Debit Card,September,2025
+10/1/2025,Health,Medicine,Debit Card,9.23,Medicine expense via Debit Card,October,2025
+10/1/2025,Others,Gifts,UPI,13.41,Gifts expense via UPI,October,2025
+10/1/2025,Rent,House Rent,Cash,307.61,House Rent expense via Cash,October,2025
+10/1/2025,Shopping,Electronics,Cash,37.25,Electronics expense via Cash,October,2025
+10/1/2025,Rent,House Rent,Cash,349.75,House Rent expense via Cash,October,2025
+10/2/2025,Rent,House Rent,Cash,489.23,House Rent expense via Cash,October,2025
+10/2/2025,Travel,Train,UPI,6.46,Train expense via UPI,October,2025
+10/2/2025,Rent,House Rent,Debit Card,379.77,House Rent expense via Debit Card,October,2025
+10/2/2025,Travel,Fuel,Cash,30.14,Fuel expense via Cash,October,2025
+10/3/2025,Health,Doctor Visit,UPI,34.97,Doctor Visit expense via UPI,October,2025
+10/3/2025,Shopping,Electronics,Cash,32.76,Electronics expense via Cash,October,2025
+10/4/2025,Utilities,Electric Bill,UPI,38.72,Electric Bill expense via UPI,October,2025
+10/4/2025,Shopping,Electronics,UPI,41.38,Electronics expense via UPI,October,2025
+10/4/2025,Travel,Bus,Cash,2.77,Bus expense via Cash,October,2025
+10/4/2025,Travel,Fuel,Debit Card,2.77,Fuel expense via Debit Card,October,2025
+10/5/2025,Health,Doctor Visit,Debit Card,54.11,Doctor Visit expense via Debit Card,October,2025
+10/5/2025,Shopping,Electronics,UPI,25.79,Electronics expense via UPI,October,2025
+10/5/2025,Food,Restaurant,Cash,34.86,Restaurant expense via Cash,October,2025
+10/6/2025,Utilities,Internet,UPI,18.19,Internet expense via UPI,October,2025
+10/6/2025,Shopping,Clothes,UPI,30.54,Clothes expense via UPI,October,2025
+10/6/2025,Rent,House Rent,Cash,457.19,House Rent expense via Cash,October,2025
+10/6/2025,Utilities,Electric Bill,UPI,32.83,Electric Bill expense via UPI,October,2025
+10/7/2025,Food,Restaurant,Cash,27.49,Restaurant expense via Cash,October,2025
+10/7/2025,Travel,Bus,Debit Card,10.08,Bus expense via Debit Card,October,2025
+10/7/2025,Utilities,Water Bill,UPI,23.62,Water Bill expense via UPI,October,2025
+10/7/2025,Rent,House Rent,Debit Card,397.6,House Rent expense via Debit Card,October,2025
+10/8/2025,Utilities,Internet,Cash,23.25,Internet expense via Cash,October,2025
+10/8/2025,Others,Gifts,Debit Card,7.99,Gifts expense via Debit Card,October,2025
+10/8/2025,Food,Snacks,Debit Card,12.54,Snacks expense via Debit Card,October,2025
+10/8/2025,Rent,House Rent,Debit Card,423.3,House Rent expense via Debit Card,October,2025
+10/8/2025,Shopping,Accessories,UPI,42.15,Accessories expense via UPI,October,2025
+10/9/2025,Food,Snacks,Cash,20.35,Snacks expense via Cash,October,2025
+10/9/2025,Others,Gifts,Debit Card,19.43,Gifts expense via Debit Card,October,2025
+10/9/2025,Rent,House Rent,UPI,409.33,House Rent expense via UPI,October,2025
+10/9/2025,Utilities,Gas,UPI,17.19,Gas expense via UPI,October,2025
+10/10/2025,Health,Doctor Visit,UPI,2.89,Doctor Visit expense via UPI,October,2025
+10/10/2025,Rent,House Rent,Cash,344.78,House Rent expense via Cash,October,2025
+10/10/2025,Food,Restaurant,Debit Card,11.78,Restaurant expense via Debit Card,October,2025
+10/10/2025,Others,Miscellaneous,Cash,18.44,Miscellaneous expense via Cash,October,2025
+10/11/2025,Others,Gifts,Cash,2.77,Gifts expense via Cash,October,2025
+10/11/2025,Travel,Cab,UPI,22.43,Cab expense via UPI,October,2025
+10/11/2025,Rent,House Rent,UPI,351.79,House Rent expense via UPI,October,2025
+10/12/2025,Food,Snacks,Cash,44.02,Snacks expense via Cash,October,2025
+10/12/2025,Shopping,Clothes,UPI,46.48,Clothes expense via UPI,October,2025
+10/12/2025,Others,Miscellaneous,Debit Card,14.65,Miscellaneous expense via Debit Card,October,2025
+10/12/2025,Rent,House Rent,UPI,346.42,House Rent expense via UPI,October,2025
+10/12/2025,Shopping,Clothes,UPI,18.48,Clothes expense via UPI,October,2025
+10/13/2025,Travel,Train,UPI,17.01,Train expense via UPI,October,2025
+10/13/2025,Shopping,Electronics,Debit Card,38.35,Electronics expense via Debit Card,October,2025
+10/14/2025,Shopping,Electronics,Cash,26.52,Electronics expense via Cash,October,2025
+10/14/2025,Others,Miscellaneous,Cash,7.69,Miscellaneous expense via Cash,October,2025
+10/14/2025,Shopping,Accessories,Debit Card,4.86,Accessories expense via Debit Card,October,2025
+10/14/2025,Utilities,Gas,Cash,50.18,Gas expense via Cash,October,2025
+10/15/2025,Shopping,Electronics,Debit Card,39.45,Electronics expense via Debit Card,October,2025
+10/15/2025,Others,Miscellaneous,Debit Card,13.06,Miscellaneous expense via Debit Card,October,2025
+10/16/2025,Others,Gifts,UPI,13.72,Gifts expense via UPI,October,2025
+10/16/2025,Food,Groceries,Debit Card,37.86,Groceries expense via Debit Card,October,2025
+10/17/2025,Travel,Cab,Debit Card,36.37,Cab expense via Debit Card,October,2025
+10/17/2025,Travel,Train,Debit Card,24.42,Train expense via Debit Card,October,2025
+10/17/2025,Utilities,Internet,Debit Card,11.48,Internet expense via Debit Card,October,2025
+10/17/2025,Utilities,Water Bill,Cash,7.19,Water Bill expense via Cash,October,2025
+10/17/2025,Travel,Bus,Cash,36.97,Bus expense via Cash,October,2025
+10/18/2025,Rent,House Rent,Debit Card,390.22,House Rent expense via Debit Card,October,2025
+10/18/2025,Utilities,Internet,Debit Card,16.81,Internet expense via Debit Card,October,2025
+10/18/2025,Food,Snacks,UPI,27.83,Snacks expense via UPI,October,2025
+10/18/2025,Others,Gifts,UPI,6.34,Gifts expense via UPI,October,2025
+10/18/2025,Shopping,Accessories,Debit Card,12.25,Accessories expense via Debit Card,October,2025
+10/19/2025,Utilities,Water Bill,UPI,30.21,Water Bill expense via UPI,October,2025
+10/19/2025,Utilities,Internet,Debit Card,32.83,Internet expense via Debit Card,October,2025
+10/19/2025,Health,Medicine,Debit Card,34.34,Medicine expense via Debit Card,October,2025
+10/19/2025,Travel,Cab,UPI,16.46,Cab expense via UPI,October,2025
+10/19/2025,Rent,House Rent,Cash,530.49,House Rent expense via Cash,October,2025
+10/20/2025,Rent,House Rent,Cash,510,House Rent expense via Cash,October,2025
+10/20/2025,Others,Gifts,Cash,8.88,Gifts expense via Cash,October,2025
+10/20/2025,Travel,Bus,UPI,36.84,Bus expense via UPI,October,2025
+10/21/2025,Health,Medicine,Cash,47.08,Medicine expense via Cash,October,2025
+10/21/2025,Health,Doctor Visit,UPI,20.82,Doctor Visit expense via UPI,October,2025
+10/21/2025,Health,Medicine,Debit Card,30.41,Medicine expense via Debit Card,October,2025
+10/21/2025,Utilities,Internet,Cash,37.84,Internet expense via Cash,October,2025
+10/22/2025,Others,Gifts,UPI,17.67,Gifts expense via UPI,October,2025
+10/22/2025,Travel,Train,Cash,46.99,Train expense via Cash,October,2025
+10/23/2025,Travel,Bus,Cash,23.06,Bus expense via Cash,October,2025
+10/23/2025,Shopping,Accessories,UPI,51.34,Accessories expense via UPI,October,2025
+10/23/2025,Others,Gifts,UPI,15.38,Gifts expense via UPI,October,2025
+10/23/2025,Utilities,Water Bill,UPI,26.38,Water Bill expense via UPI,October,2025
+10/24/2025,Others,Gifts,Debit Card,15.75,Gifts expense via Debit Card,October,2025
+10/24/2025,Shopping,Accessories,Cash,44.11,Accessories expense via Cash,October,2025
+10/24/2025,Shopping,Accessories,Debit Card,21.07,Accessories expense via Debit Card,October,2025
+10/25/2025,Food,Groceries,Cash,8.31,Groceries expense via Cash,October,2025
+10/25/2025,Others,Gifts,Cash,11.09,Gifts expense via Cash,October,2025
+10/25/2025,Food,Groceries,UPI,29.72,Groceries expense via UPI,October,2025
+10/25/2025,Food,Groceries,Debit Card,35.83,Groceries expense via Debit Card,October,2025
+10/26/2025,Utilities,Water Bill,Cash,6.8,Water Bill expense via Cash,October,2025
+10/26/2025,Food,Restaurant,UPI,32.29,Restaurant expense via UPI,October,2025
+10/26/2025,Health,Doctor Visit,Cash,22.27,Doctor Visit expense via Cash,October,2025
+10/26/2025,Travel,Cab,Cash,25.19,Cab expense via Cash,October,2025
+10/27/2025,Food,Groceries,Debit Card,35.34,Groceries expense via Debit Card,October,2025
+10/27/2025,Shopping,Accessories,Cash,30.7,Accessories expense via Cash,October,2025
+10/27/2025,Others,Miscellaneous,Cash,22.24,Miscellaneous expense via Cash,October,2025
+10/27/2025,Rent,House Rent,Cash,462.09,House Rent expense via Cash,October,2025
+10/27/2025,Shopping,Accessories,Debit Card,49.51,Accessories expense via Debit Card,October,2025
+10/28/2025,Rent,House Rent,UPI,413.84,House Rent expense via UPI,October,2025
+10/28/2025,Others,Gifts,Cash,23.89,Gifts expense via Cash,October,2025
+10/29/2025,Food,Groceries,Cash,6.82,Groceries expense via Cash,October,2025
+10/29/2025,Utilities,Internet,Cash,16.41,Internet expense via Cash,October,2025
+10/29/2025,Utilities,Gas,Debit Card,28.14,Gas expense via Debit Card,October,2025
+10/30/2025,Food,Groceries,Cash,21.4,Groceries expense via Cash,October,2025
+10/30/2025,Utilities,Internet,UPI,34.97,Internet expense via UPI,October,2025
+10/30/2025,Others,Gifts,Cash,19.82,Gifts expense via Cash,October,2025
+10/30/2025,Rent,House Rent,Debit Card,492.14,House Rent expense via Debit Card,October,2025
+10/30/2025,Shopping,Clothes,Cash,14.95,Clothes expense via Cash,October,2025
+10/31/2025,Rent,House Rent,Debit Card,572.23,House Rent expense via Debit Card,October,2025
+10/31/2025,Food,Groceries,Debit Card,21.1,Groceries expense via Debit Card,October,2025
+10/31/2025,Travel,Train,Cash,25.02,Train expense via Cash,October,2025
+10/31/2025,Travel,Train,Cash,6.25,Train expense via Cash,October,2025
+10/31/2025,Utilities,Internet,Cash,26.19,Internet expense via Cash,October,2025
+11/1/2025,Travel,Fuel,UPI,59.48,Fuel expense via UPI,November,2025
+11/1/2025,Shopping,Accessories,UPI,21.91,Accessories expense via UPI,November,2025
+11/1/2025,Food,Groceries,Cash,294.53,Groceries expense via Cash,November,2025
+11/1/2025,Travel,Bus,Cash,269.17,Bus expense via Cash,November,2025
+11/1/2025,Food,Restaurant,Cash,152.61,Restaurant expense via Cash,November,2025
+11/2/2025,Utilities,Internet,Cash,174.58,Internet expense via Cash,November,2025
+11/2/2025,Health,Doctor Visit,UPI,196.24,Doctor Visit expense via UPI,November,2025
+11/2/2025,Health,Medicine,UPI,186.47,Medicine expense via UPI,November,2025
+11/2/2025,Food,Snacks,Debit Card,41.36,Snacks expense via Debit Card,November,2025
+11/2/2025,Others,Gifts,UPI,105.57,Gifts expense via UPI,November,2025
+11/3/2025,Rent,House Rent,Cash,3329.76,House Rent expense via Cash,November,2025
+11/3/2025,Food,Groceries,UPI,380.41,Groceries expense via UPI,November,2025
+11/4/2025,Rent,House Rent,UPI,3746.11,House Rent expense via UPI,November,2025
+11/4/2025,Utilities,Water Bill,UPI,57.74,Water Bill expense via UPI,November,2025
+11/5/2025,Others,Miscellaneous,Debit Card,100.03,Miscellaneous expense via Debit Card,November,2025
+11/5/2025,Food,Snacks,Cash,335.14,Snacks expense via Cash,November,2025
+11/6/2025,Food,Groceries,UPI,123.4,Groceries expense via UPI,November,2025
+11/6/2025,Food,Snacks,Cash,154.31,Snacks expense via Cash,November,2025
+11/6/2025,Shopping,Electronics,Debit Card,271.17,Electronics expense via Debit Card,November,2025
