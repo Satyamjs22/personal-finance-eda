@@ -100,9 +100,11 @@ Future improvements:
 ## 👨‍💻 Author
 **Satyam Singh**  
 *Data Analyst | Data Engineer Enthusiast | Finance & EDA Projects*  
-📧 Email: [your_email@example.com]  
-🌐 GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+📧 Email: satyamjsingh6@gmail.com 
+🌐 GitHub: https://github.com/Satyamjs22
+💼 LinkedIn: www.linkedin.com/in/ss2025
+
+
 
 ---
 
