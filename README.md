@@ -1,5 +1,3 @@
-# personal-finance-eda
-EDA on Personal Finance Expense Data using Python
 # 🧾 Personal Finance Expense Trend Analysis using EDA (Python)
 
 ### 📊 Overview
